@@ -8,7 +8,7 @@ Este módulo supone la culminación práctica de la formación del ciclo. A trav
 El **Proyecto de administración de sistemas informáticos en red** tiene una naturaleza eminentemente aplicada, y su principal objetivo es que el alumnado sea capaz de concebir, planificar y documentar una solución tecnológica completa: desde el análisis de necesidades hasta la evaluación de resultados, pasando por el diseño técnico y la planificación de la ejecución.  
 
 ## Contextualización del módulo en el ciclo formativo  
-El módulo se imparte en el **segundo curso** del CFGS de Administración de Sistemas Informáticos en Red, con una duración total de **70 horas**, distribuidas en **3 horas semanales** a lo largo de **35 semanas lectivas**.  
+El módulo se imparte en el **segundo curso** del CFGS de Administración de Sistemas Informáticos en Red, con una duración total de **70 horas**, distribuidas en **2 horas semanales** a lo largo de **35 semanas lectivas**.  
 
 A diferencia del resto de módulos, el **Proyecto Integrado** no se desarrolla mediante unidades didácticas convencionales, sino a través de **fases de trabajo progresivas** en las que el alumnado analiza un contexto, diseña una propuesta técnica y planifica su implantación. El desarrollo del proyecto se realiza bajo la supervisión y orientación del profesorado tutor, que actúa como guía metodológica y evaluadora del proceso.  
 
@@ -75,7 +75,7 @@ j) Utilizar de forma eficaz las Tecnologías de la Información y la Comunicaci�
 
 ## Distribución de contenidos y secuenciación temporal  
 
-El módulo profesional de **Proyecto de administración de sistemas informáticos en red (PI)** tiene una duración total de **70 horas**, con una carga de **2 horas semanales** a lo largo de **35 semanas lectivas**, distribuidas en tres trimestres (14 + 12 + 9 semanas).  
+El módulo profesional de **Proyecto de administración de sistemas informáticos en red (PI)** tiene una duración total de **70 horas**, con una carga de **2 horas semanales** a lo largo de **35 semanas lectivas**, distribuidas en tres trimestres (14 + 11 + 10 semanas).  
 
 El proceso de aprendizaje se articula en un **modelo iterativo de desarrollo de proyectos**, en el que el alumnado aplica de forma progresiva los **cuatro Resultados de Aprendizaje (RA1–RA4)** en todas las fases.  
 Cada etapa del módulo representa un ciclo de mejora continua: el estudiante parte de un proyecto de alcance limitado, lo amplía en complejidad técnica y lo culmina con una planificación, ejecución y evaluación completas.
@@ -104,7 +104,7 @@ Durante esta fase se identifican necesidades, se definen objetivos y se construy
 ---
 
 ### Fase 2. Ampliación, rediseño y documentación técnica  
-*(2.º Trimestre – 12 semanas → 24 horas)*  
+*(2.º Trimestre – 11 semanas → 22 horas)*  
 
 Partiendo del proyecto piloto, el alumnado amplía su alcance técnico y mejora la calidad documental y organizativa del trabajo.  
 Se introduce la planificación detallada, la gestión de recursos y la documentación profesional.
@@ -126,7 +126,7 @@ Se introduce la planificación detallada, la gestión de recursos y la documenta
 ---
 
 ### Fase 3. Ejecución, seguimiento y evaluación final del proyecto  
-*(3.º Trimestre – 9 semanas → 18 horas)*  
+*(3.º Trimestre – 10 semanas → 20 horas)*  
 
 El alumnado finaliza el desarrollo del proyecto aplicando todos los RA de manera integrada.  
 Esta fase se centra en la **ejecución completa, evaluación y presentación profesional del proyecto final**.
@@ -151,8 +151,8 @@ Esta fase se centra en la **ejecución completa, evaluación y presentación pro
 | Fase | Denominación | RA implicados | Trimestre | Horas |
 |------|---------------|---------------|------------|--------|
 | 1 | Proyecto piloto y análisis inicial del contexto | RA1, RA2, RA3, RA4 | 1.º | 28 h |
-| 2 | Ampliación, rediseño y documentación técnica | RA1, RA2, RA3, RA4 | 2.º | 24 h |
-| 3 | Ejecución, seguimiento y evaluación final | RA1, RA2, RA3, RA4 | 3.º | 18 h |
+| 2 | Ampliación, rediseño y documentación técnica | RA1, RA2, RA3, RA4 | 2.º | 22 h |
+| 3 | Ejecución, seguimiento y evaluación final | RA1, RA2, RA3, RA4 | 3.º | 20 h |
 | **Total** | — | — | — | **70 h** |
 
 ---
@@ -168,9 +168,7 @@ Esta fase se centra en la **ejecución completa, evaluación y presentación pro
 
 ---
 
-## Resultados de Aprendizaje y Criterios de Evaluación  
-
-*(Los RA y criterios se aplican en las tres fases, de forma iterativa y con distintos niveles de complejidad.)*
+## Resultados de Aprendizaje y Criterios de Evaluación
 
 **RA1. Identifica necesidades del sector productivo relacionándolas con proyectos tipo que las puedan satisfacer.**  
 a) Se han clasificado las empresas del sector por sus características organizativas y el tipo de producto o servicio que ofrecen.  
