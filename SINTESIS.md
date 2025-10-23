@@ -1,7 +1,7 @@
 ### I.E.S. MAR DE CÁDIZ  
 ### CFGS Administración de Sistemas Informáticos en Red (2º curso)  
 #### Documento de Síntesis de la Programación Didáctica
-**Módulo profesional:** Servicios de Red e Internet (SRI – Código 0379)  
+**Módulo profesional:** Proyecto Integrado (PI – Código 0379)  
 **Curso escolar:** 2025/2026
 
 ---
@@ -72,3 +72,55 @@
 | e) | Se ha definido y elaborado la documentación necesaria para la evaluación de las actividades y del proyecto. | 3,57 |
 | f) | Se ha establecido el procedimiento para la participación en la evaluación de los usuarios o clientes y se han elaborado los documentos específicos. | 3,57 |
 | g) | Se ha establecido un sistema para garantizar el cumplimiento del pliego de condiciones del proyecto cuando este existe. | 3,57 |  
+
+---
+
+## Criterios de calificación
+
+La calificación final del módulo se obtiene mediante la **media aritmética de los Resultados de Aprendizaje (RA)**. La nota de cada **Resultado de Aprendizaje (RA)** será la **media aritmética de los criterios de evaluación** que lo componen. Cada **criterio de evaluación** se calificará a partir de las **actividades y entregas asociadas** a dicho criterio.
+
+**Condiciones para la superación del módulo:**
+
+- Para superar el módulo, el alumno deberá obtener al menos una calificación de **5,0 sobre 10** tanto en la **nota media global** como en **cada RA**.
+- Si algún RA tiene una calificación inferior a 5,0, la nota final será la **mínima de entre los RA no superados**.
+- La **defensa técnica y documental del proyecto** será requisito imprescindible para superar el módulo.
+- Las **actividades no entregadas** se calificarán con **0** y afectarán a los criterios correspondientes.
+- Las **actividades de aula** son **no recuperables**, al formar parte del proceso de observación continua.
+- Los **plazos de entrega** son estrictos y se consideran parte del criterio de profesionalidad y responsabilidad.
+- Las **faltas de asistencia** no suponen derecho a ampliación de plazos, salvo acuerdo excepcional con el docente.
+
+---
+
+## Procedimientos de evaluación
+
+La evaluación será **continua, formativa e integradora**, valorando tanto el proceso de aprendizaje como los resultados alcanzados.
+Se ajustará a la metodología del módulo, basada en el **aprendizaje por proyectos**, la **autonomía del alumnado**, la **retroalimentación continua** y la **mejora iterativa** del trabajo.
+
+Los principales procedimientos de evaluación son:
+
+1. **Observación directa y sistemática** del trabajo del alumnado, valorando la planificación, organización y actitud profesional.
+2. **Revisión de entregas parciales**, comprobando la coherencia técnica y la progresión del proyecto a lo largo de las fases.
+3. **Tutorías personalizadas y retroalimentación formativa**, tanto individuales como grupales, orientadas a la mejora técnica y documental.
+4. **Autoevaluación y coevaluación**, fomentando la reflexión crítica y la responsabilidad sobre el propio aprendizaje.
+5. **Exposiciones intermedias y defensa final del proyecto**, donde se valorará la justificación técnica, la argumentación y la comunicación profesional.
+
+Los alumnos que no alcancen todos los RA deberán presentarse a la **evaluación ordinaria**, consistente en una **defensa técnica y documental** ante el tribunal del módulo. Si no la superan, podrán optar a la **evaluación extraordinaria**, con el mismo formato y criterios.
+
+---
+
+## Instrumentos de evaluación
+
+Para garantizar la objetividad y la coherencia del proceso evaluador se utilizarán los siguientes instrumentos:
+
+- **Observación directa del docente**, registrando la evolución técnica, la actitud y la autonomía del alumno.
+- **Cuaderno de seguimiento individual**, donde se recogen observaciones, tutorías y evidencias del progreso.
+- **Rúbricas de evaluación**, aplicadas en las distintas fases y utilizadas tanto por el docente como por el tribunal.
+- **Entregas parciales**, que reflejan la aplicación práctica de los resultados de aprendizaje en cada iteración del proyecto.
+- **Memoria técnica final**, documento que integra la planificación, ejecución, resultados y conclusiones del proyecto.
+- **Defensa oral del proyecto**, donde el alumnado expone y justifica sus decisiones técnicas ante el tribunal.
+- **Autoevaluación y coevaluación**, mediante cuestionarios o rúbricas personales que fomentan la reflexión y mejora continua.
+
+El **instrumento principal** será la **observación directa**, complementada con la retroalimentación formativa y el seguimiento individualizado.
+Este enfoque asegura la coherencia entre metodología, objetivos, procedimientos e instrumentos, reproduciendo las condiciones reales de un entorno profesional.
+
+---
