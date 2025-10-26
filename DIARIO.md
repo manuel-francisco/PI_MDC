@@ -9,11 +9,13 @@
 - Área de impresión 220x220x300
 - Dimensiones mini-itx 170x170
 - Dimensiones biostar 170x190
-- Primer diseño con dos slots pci
+- Primer diseño con dos slots PCIe
 
 ![Core v1](images/core.v1.png)
 ![Imprimiendo Core v1](images/imprimiendo_core.v1.png)
 
 **Tiempo total**: 4 horas (2 de ellas mientras veía la F1)
+
 **Tarea en segundo plano**: impresión del diseño inicial
+
 **Siguiente paso**: evaluar el software
