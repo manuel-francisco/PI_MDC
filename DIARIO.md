@@ -15,3 +15,5 @@
 ![Imprimiendo Core v1](images/imprimiendo_core.v1.png)
 
 **Tiempo total**: 4 horas (2 de ellas mientras veía la F1)
+**Tarea en segundo plano**: impresión del diseño inicial
+**Siguiente paso**: evaluar el software

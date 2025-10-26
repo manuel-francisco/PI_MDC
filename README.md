@@ -36,7 +36,7 @@ Me gustaría obtener una primera versión funcional del proyecto en 2 meses. Dis
 
 4. Ensamblar un prototipo funcional que permita realizar pruebas de integración y obtener retroalimentación de los posibles usuarios.
 
-5. Configurar una pila de software sencilla y coherente, compuesta por el menor número posible de herramientas autocontenidas y listas para su uso inmediato.
+5. Configurar *stack* software sencillo y coherente, compuesta por el menor número posible de herramientas autocontenidas y listas para su uso inmediato.
 
 6. Recoger las opiniones de los usuarios tras un periodo de prueba de dos semanas y elaborar una lista priorizada de mejoras.
 
