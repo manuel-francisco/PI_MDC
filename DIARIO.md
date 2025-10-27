@@ -19,3 +19,22 @@
 **Tarea en segundo plano**: impresión del diseño inicial
 
 **Siguiente paso**: evaluar el software
+
+## 28 de octubre
+- Detectados algunos problemas en la impresión:
+    - Tiempo de impresión demasiado largo sólo para prototipar (actualmente 19h, capa 75mm)
+    - Hay que poner soportes a los puentes de la ranura I/O de la placa
+    - Soporte a tuercas para PCIe
+    - Ranura de inserción de PCIe y chapa I/O
+- He creado problemas de estabilidad de impresión y probablemente de resistencia del chasis (core.v2):
+    - El objetivo es reducir los tiempos de impresión
+    - Habrá que solucionarlos más adelante
+
+![Core v2](images/core.v2.png)
+![Imprimiendo Core v2](images/imprimiendo2_core.v2.png)
+
+**Tiempo total**: 1 hora
+
+**Tarea en segundo plano**: impresión del diseño inicial
+
+**Siguiente paso**: evaluar el software
