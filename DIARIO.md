@@ -31,7 +31,7 @@
     - Habrá que solucionarlos más adelante
 
 ![Core v2](images/core.v2.png)
-![Imprimiendo Core v2](images/imprimiendo2_core.v2.png)
+![Imprimiendo Core v2](images/imprimiendo2_core.v1.png)
 
 **Tiempo total**: 1 hora
 
