@@ -1,6 +1,7 @@
-### I.E.S. MAR DE CÁDIZ  
-### CFGS Administración de Sistemas Informáticos en Red (2º curso)  
-#### Documento de Síntesis de la Programación Didáctica
+# I.E.S. MAR DE CÁDIZ  
+## CFGS Administración de Sistemas Informáticos en Red (2º curso)  
+### Documento de Síntesis de la Programación Didáctica
+
 **Módulo profesional:** Proyecto Integrado (PI – Código 0379)  
 **Curso escolar:** 2025/2026
 
@@ -10,83 +11,83 @@ Los resultados de aprendizaje (RA) del módulo profesional **Proyecto de Adminis
 Cada RA se concreta mediante criterios de evaluación observables y medibles, que sirven como referencia para valorar el grado de adquisición de las competencias profesionales, personales y sociales propias del título.
 
 La ponderación se distribuye de la siguiente manera:
-- **60 %** de la calificación corresponde a la **valoración del tutor o tutora del proyecto**, repartido equitativamente entre los cuatro resultados de aprendizaje (15 % cada uno).  
-- **40 %** restante corresponde a la **valoración del tribunal docente** en la defensa final del proyecto.
+- **50 %** de la calificación corresponde a la **valoración del tutor o tutora del proyecto**, repartido equitativamente entre los cuatro resultados de aprendizaje (12,5 % cada uno).  
+- **50 %** restante corresponde a la **valoración del tribunal docente** en la defensa final del proyecto.
 
 ---
 
 ### RA1. Identifica necesidades del sector productivo relacionándolas con proyectos tipo que las puedan satisfacer  
 
-**Contribución del RA1:** 15 %  
+**Contribución del RA1:** 12,5 %  
 
 | Letra | Criterio de evaluación | % |
 | :---: | ------------------------------------------------------------ | :--: |
-| a) | Se han clasificado las empresas del sector por sus características organizativas y el tipo de producto o servicio que ofrecen. | 1,67 |
-| b) | Se han caracterizado las empresas tipo indicando la estructura organizativa y las funciones de cada departamento. | 1,67 |
-| c) | Se han identificado las necesidades más demandadas a las empresas. | 1,67 |
-| d) | Se han valorado las oportunidades de negocio previsibles en el sector. | 1,67 |
-| e) | Se ha identificado el tipo de proyecto requerido para dar respuesta a las demandas previstas. | 1,67 |
-| f) | Se han determinado las características específicas requeridas al proyecto. | 1,67 |
-| g) | Se han determinado las obligaciones fiscales, laborales y de prevención de riesgos y sus condiciones de aplicación. | 1,67 |
-| h) | Se han identificado posibles ayudas o subvenciones para la incorporación de nuevas tecnologías de producción o de servicio que se proponen. | 1,67 |
-| i) | Se ha elaborado el guion de trabajo que se va a seguir para la elaboración del proyecto. | 1,67 |  
+| a) | Se han clasificado las empresas del sector por sus características organizativas y el tipo de producto o servicio que ofrecen. | 11,11 |
+| b) | Se han caracterizado las empresas tipo indicando la estructura organizativa y las funciones de cada departamento. | 11,11 |
+| c) | Se han identificado las necesidades más demandadas a las empresas. | 11,11 |
+| d) | Se han valorado las oportunidades de negocio previsibles en el sector. | 11,11 |
+| e) | Se ha identificado el tipo de proyecto requerido para dar respuesta a las demandas previstas. | 11,11 |
+| f) | Se han determinado las características específicas requeridas al proyecto. | 11,11 |
+| g) | Se han determinado las obligaciones fiscales, laborales y de prevención de riesgos y sus condiciones de aplicación. | 11,11 |
+| h) | Se han identificado posibles ayudas o subvenciones para la incorporación de nuevas tecnologías de producción o de servicio que se proponen. | 11,11 |
+| i) | Se ha elaborado el guion de trabajo que se va a seguir para la elaboración del proyecto. | 11,11 |  
 
 ---
 
 ### RA2. Diseña proyectos relacionados con las competencias expresadas en el título, incluyendo y desarrollando las fases que lo componen  
 
-**Contribución del RA2:** 15 %  
+**Contribución del RA2:** 12,5 %  
 
 | Letra | Criterio de evaluación | % |
 | :---: | ------------------------------------------------------------ | :--: |
-| a) | Se ha recopilado información relativa a los aspectos que van a ser tratados en el proyecto. | 1,67 |
-| b) | Se ha realizado el estudio de viabilidad técnica del mismo. | 1,67 |
-| c) | Se han identificado las fases o partes que componen el proyecto y su contenido. | 1,67 |
-| d) | Se han establecido los objetivos que se pretenden conseguir identificando su alcance. | 1,67 |
-| e) | Se han previsto los recursos materiales y personales necesarios para realizar el proyecto. | 1,67 |
-| f) | Se ha realizado el presupuesto económico correspondiente. | 1,67 |
-| g) | Se han identificado las necesidades de financiación para la puesta en marcha del mismo. | 1,67 |
-| h) | Se ha definido y elaborado la documentación necesaria para su diseño. | 1,67 |
-| i) | Se han identificado los aspectos que se deben controlar para garantizar la calidad del proyecto. | 1,67 |  
+| a) | Se ha recopilado información relativa a los aspectos que van a ser tratados en el proyecto. | 11,11 |
+| b) | Se ha realizado el estudio de viabilidad técnica del mismo. | 11,11 |
+| c) | Se han identificado las fases o partes que componen el proyecto y su contenido. | 11,11 |
+| d) | Se han establecido los objetivos que se pretenden conseguir identificando su alcance. | 11,11 |
+| e) | Se han previsto los recursos materiales y personales necesarios para realizar el proyecto. | 11,11 |
+| f) | Se ha realizado el presupuesto económico correspondiente. | 11,11 |
+| g) | Se han identificado las necesidades de financiación para la puesta en marcha del mismo. | 11,11 |
+| h) | Se ha definido y elaborado la documentación necesaria para su diseño. | 11,11 |
+| i) | Se han identificado los aspectos que se deben controlar para garantizar la calidad del proyecto. | 11,11 |  
 
 ---
 
 ### RA3. Planifica la puesta en funcionamiento o ejecución del proyecto, determinando el plan de intervención y la documentación asociada  
 
-**Contribución del RA3:** 15 %  
+**Contribución del RA3:** 12,5 %  
 
 | Letra | Criterio de evaluación | % |
 | :---: | ------------------------------------------------------------ | :--: |
-| a) | Se han secuenciado las actividades ordenándolas en función de las necesidades de implementación. | 1,88 |
-| b) | Se han determinado los recursos y la logística necesaria para cada actividad. | 1,88 |
-| c) | Se han identificado las necesidades de permisos y autorizaciones para llevar a cabo las actividades. | 1,88 |
-| d) | Se han determinado los procedimientos de actuación o ejecución de las actividades. | 1,88 |
-| e) | Se han identificado los riesgos inherentes a la ejecución, definiendo el plan de prevención de riesgos y los medios y equipos necesarios. | 1,88 |
-| f) | Se han planificado la asignación de recursos materiales y humanos y los tiempos de ejecución. | 1,88 |
-| g) | Se ha hecho la valoración económica que da respuesta a las condiciones de la ejecución. | 1,88 |
-| h) | Se ha definido y elaborado la documentación necesaria para la ejecución. | 1,88 |  
+| a) | Se han secuenciado las actividades ordenándolas en función de las necesidades de implementación. | 12,5 |
+| b) | Se han determinado los recursos y la logística necesaria para cada actividad. | 12,5 |
+| c) | Se han identificado las necesidades de permisos y autorizaciones para llevar a cabo las actividades. | 12,5 |
+| d) | Se han determinado los procedimientos de actuación o ejecución de las actividades. | 12,5 |
+| e) | Se han identificado los riesgos inherentes a la ejecución, definiendo el plan de prevención de riesgos y los medios y equipos necesarios. | 12,5 |
+| f) | Se han planificado la asignación de recursos materiales y humanos y los tiempos de ejecución. | 12,5 |
+| g) | Se ha hecho la valoración económica que da respuesta a las condiciones de la ejecución. | 12,5 |
+| h) | Se ha definido y elaborado la documentación necesaria para la ejecución. | 12,5 |  
 
 ---
 
 ### RA4. Define los procedimientos para el seguimiento y control en la ejecución del proyecto, justificando la selección de variables e instrumentos empleados  
 
-**Contribución del RA4:** 15 %  
+**Contribución del RA4:** 12,5 %  
 
 | Letra | Criterio de evaluación | % |
 | :---: | ------------------------------------------------------------ | :--: |
-| a) | Se ha definido el procedimiento de evaluación de las actividades o intervenciones. | 2,14 |
-| b) | Se han definido los indicadores de calidad para realizar la evaluación. | 2,14 |
-| c) | Se ha definido el procedimiento para la evaluación de las incidencias que puedan presentarse durante la realización de las actividades, su posible solución y registro. | 2,14 |
-| d) | Se ha definido el procedimiento para gestionar los posibles cambios en los recursos y en las actividades, incluyendo el sistema de registro de los mismos. | 2,14 |
-| e) | Se ha definido y elaborado la documentación necesaria para la evaluación de las actividades y del proyecto. | 2,14 |
-| f) | Se ha establecido el procedimiento para la participación en la evaluación de los usuarios o clientes y se han elaborado los documentos específicos. | 2,14 |
-| g) | Se ha establecido un sistema para garantizar el cumplimiento del pliego de condiciones del proyecto cuando este existe. | 2,14 |  
+| a) | Se ha definido el procedimiento de evaluación de las actividades o intervenciones. | 14,29 |
+| b) | Se han definido los indicadores de calidad para realizar la evaluación. | 14,29 |
+| c) | Se ha definido el procedimiento para la evaluación de las incidencias que puedan presentarse durante la realización de las actividades, su posible solución y registro. | 14,29 |
+| d) | Se ha definido el procedimiento para gestionar los posibles cambios en los recursos y en las actividades, incluyendo el sistema de registro de los mismos. | 14,29 |
+| e) | Se ha definido y elaborado la documentación necesaria para la evaluación de las actividades y del proyecto. | 14,29 |
+| f) | Se ha establecido el procedimiento para la participación en la evaluación de los usuarios o clientes y se han elaborado los documentos específicos. | 14,29 |
+| g) | Se ha establecido un sistema para garantizar el cumplimiento del pliego de condiciones del proyecto cuando este existe. | 14,29 |  
 
 ---
 
 ### Valoración del tribunal docente  
 
-**Contribución del tribunal:** 40 %  
+**Contribución del tribunal:** 50 %  
 
 La valoración del tribunal docente se aplicará sobre la **defensa pública del proyecto** y la **documentación final entregada**.  
 Se valorarán los siguientes aspectos:
@@ -97,26 +98,24 @@ Se valorarán los siguientes aspectos:
 - Presentación de la documentación final y adecuación formal a los estándares técnicos.  
 - Actitud profesional, comunicación y dominio del lenguaje técnico durante la defensa.  
 
-Esta valoración se integrará como un bloque independiente equivalente al **40 % de la calificación final del módulo**, conforme a los criterios establecidos en la programación didáctica.
-
 ---
 
 ## Criterios de calificación
 
 La **calificación final del módulo** se obtendrá mediante la ponderación de dos bloques de evaluación:
 
-  **a) Valoración del tutor o tutora del proyecto (60 %):**  
+  **a) Valoración del tutor o tutora del proyecto (50 %):**  
   Corresponde al seguimiento continuo del trabajo realizado por el alumnado durante todo el proceso.  
-  Este porcentaje se distribuirá de forma equilibrada entre los cuatro resultados de aprendizaje (RA), a razón de un **15 % por cada RA**, valorando:  
+  Este porcentaje se distribuirá de forma equilibrada entre los cuatro resultados de aprendizaje (RA), a razón de un **12,5 % por cada RA**, valorando:  
   - La planificación, organización y cumplimiento de los objetivos establecidos.  
   - La calidad técnica y la viabilidad del proyecto.  
   - La autonomía, responsabilidad y capacidad de resolución de problemas.  
   - La correcta documentación y justificación del trabajo realizado.  
 
-  **b) Valoración del tribunal docente (40 %):**  
+  **b) Valoración del tribunal docente (50 %):**  
   Corresponde a la **defensa final del proyecto** ante una representación del equipo docente.  
   Se valorará la calidad global del proyecto, la claridad y precisión de la exposición oral, la justificación técnica de las decisiones adoptadas, el rigor en la documentación presentada y la actitud profesional mostrada durante la presentación.  
-  Esta valoración se integrará como un único bloque equivalente al 40 % de la nota final del módulo.
+  Esta valoración se integrará como un único bloque equivalente al 50 % de la nota final del módulo.
 
 Para superar el módulo será necesario obtener una **calificación mínima de 5,0 puntos sobre 10** tanto en la media ponderada final como en la valoración del tutor y del tribunal.  
 
@@ -166,9 +165,9 @@ Se valorará especialmente el **RA3 (organización y ejecución del proyecto)**,
 
 
 **Cuarta iteración: hasta el 15 de mayo de 2026**
-- **Avances técnicos:** el alumnado deberá presentar la **versión final del proyecto plenamente operativa**, en la que todas las funcionalidades estén integradas y documentadas. La solución deberá ser estable, reproducible y ajustada a los objetivos iniciales.
+- **Producto** el alumnado deberá presentar la **versión final del proyecto plenamente operativa**, en la que todas las funcionalidades estén integradas y documentadas. La solución deberá ser estable, reproducible y ajustada a los objetivos iniciales.
 
-- **Avances documentales:** esta fase está dedicada a la **finalización, evaluación y documentación del proyecto**. La **cuarta entrega parcial** incluirá:
+- **Documentación del producto:** esta fase está dedicada a la **finalización, evaluación y documentación del proyecto**. La **cuarta entrega parcial** incluirá:
   - Memoria técnica completa del proyecto.  
   - Anexos, manuales de usuario y documentación de mantenimiento.  
   - Evaluación de resultados, conclusiones y propuestas de mejora.  

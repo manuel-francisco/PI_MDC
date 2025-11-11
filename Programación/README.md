@@ -380,28 +380,35 @@ El módulo de **Proyecto de Administración de Sistemas Informáticos en Red (03
 
 La **calificación final del módulo** se obtendrá mediante la ponderación de dos bloques de evaluación:
 
-  **a) Valoración del tutor o tutora del proyecto (60 %):**  
+  **a) Valoración del tutor o tutora del proyecto (50 %):**  
   Corresponde al seguimiento continuo del trabajo realizado por el alumnado durante todo el proceso.  
-  Este porcentaje se distribuirá de forma equilibrada entre los cuatro resultados de aprendizaje (RA), a razón de un **15 % por cada RA**, valorando:  
+  Este porcentaje se distribuirá de forma equilibrada entre los cuatro resultados de aprendizaje (RA), a razón de un **12,5 % por cada RA**, valorando:  
   - La planificación, organización y cumplimiento de los objetivos establecidos.  
   - La calidad técnica y la viabilidad del proyecto.  
   - La autonomía, responsabilidad y capacidad de resolución de problemas.  
   - La correcta documentación y justificación del trabajo realizado.  
 
-  **b) Valoración del tribunal docente (40 %):**  
+  **b) Valoración del tribunal docente (50 %):**  
   Corresponde a la **defensa final del proyecto** ante una representación del equipo docente.  
   Se valorará la calidad global del proyecto, la claridad y precisión de la exposición oral, la justificación técnica de las decisiones adoptadas, el rigor en la documentación presentada y la actitud profesional mostrada durante la presentación.  
-  Esta valoración se integrará como un único bloque equivalente al 40 % de la nota final del módulo.
 
 Para superar el módulo será necesario obtener una **calificación mínima de 5,0 puntos sobre 10** tanto en la media ponderada final como en la valoración del tutor y del tribunal.  
 
 En caso de no superar el módulo, el alumnado deberá **presentar una versión revisada del proyecto** y una nueva defensa en la convocatoria de recuperación, manteniendo la misma estructura y ponderación de los criterios de calificación.
 
+## Calificación trimestral
+
+La **calificación trimestral** se determinará a partir de la **media ponderada de los resultados de aprendizaje evaluados durante el periodo**, teniendo en cuenta los criterios y porcentajes asignados en la programación didáctica.  
+Para cada resultado de aprendizaje se calculará la media ponderada de los **criterios de evaluación** trabajados en el trimestre, en función del peso específico de cada uno dentro del RA.  
+La suma de dichas medias ponderadas constituirá la nota del trimestre, que tendrá carácter **informativo y orientativo**, sirviendo para valorar la evolución del alumnado y detectar posibles dificultades.  
+
+En ningún caso la calificación trimestral tendrá validez certificadora, ya que la **calificación final del módulo** se obtendrá de acuerdo con el grado de superación de la totalidad de los **resultados de aprendizaje** al cierre del curso y de acuerdo con la valoración del tribunal docente. Este procedimiento garantiza la **continuidad del proceso de evaluación formativa**, permitiendo ajustar la enseñanza y las estrategias de refuerzo según las necesidades detectadas en cada trimestre.
+
 ### Calificación final y periodo de recuperación
 
 La **calificación final del módulo** se obtendrá tras la defensa del proyecto ante el tribunal docente, integrando las dos valoraciones principales:  
-- **60 % correspondiente al tutor o tutora del proyecto**, basado en el seguimiento del proceso, el cumplimiento de los objetivos y la calidad técnica del trabajo.  
-- **40 % correspondiente al tribunal docente**, obtenido en la presentación y defensa pública del proyecto.  
+- **50 % correspondiente al tutor o tutora del proyecto**, basado en el seguimiento del proceso, el cumplimiento de los objetivos y la calidad técnica del trabajo.  
+- **50 % correspondiente al tribunal docente**, obtenido en la presentación y defensa pública del proyecto.  
 
 Para superar el módulo será necesario alcanzar una **calificación mínima de 5,0 puntos sobre 10** en la media ponderada y obtener al menos un **5,0 en ambas valoraciones** (tutor y tribunal).  
 

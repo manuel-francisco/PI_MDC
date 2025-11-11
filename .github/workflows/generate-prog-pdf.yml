@@ -2,8 +2,13 @@ name: Generate Programacion PDF
 
 on:
   push:
-    branches:
-      - PI-1/programacion
+    paths:
+      - './Programación/README.md'
+      - './Programación/SINTESIS.md'
+  pull_request:
+    paths:
+      - './Programación/README.md'
+      - './Programación/SINTESIS.md'
 
 jobs:
   build:
@@ -20,7 +25,9 @@ jobs:
           sudo fc-cache -fv
 
       - name: Convert README.md to PDF
+        working-directory: ./Programación
         run: |
+          REV=$(date +"%d/%m/%Y")
           pandoc README.md \
           --template=template.tex \
           --pdf-engine=xelatex \
@@ -30,7 +37,7 @@ jobs:
           -V CODIGO="0379" \
           -V CICLO="Ciclo Formativo de Grado Superior de Administración de Sistemas Informáticos en Red" \
           -V CURSO="2025-2026" \
-          -V REVISION="17/10/2025" \
+          -V REVISION="$REV" \
           -V IES="IES Mar de Cádiz" \
           -V DPTO="Dpto. Informática y Comunicaciones" \
           -V CIUDAD="El Puerto de Santa María" \
@@ -39,7 +46,9 @@ jobs:
       
 
       - name: Convert SINTESIS.md to PDF
+        working-directory: ./Programación
         run: |
+          REV=$(date +"%d/%m/%Y")
           pandoc SINTESIS.md \
           --template=template_sintesis.tex \
           --pdf-engine=xelatex \
@@ -49,7 +58,7 @@ jobs:
           -V CODIGO="0379" \
           -V CICLO="Ciclo Formativo de Grado Superior de Administración de Sistemas Informáticos en Red" \
           -V CURSO="2025-2026" \
-          -V REVISION="17/10/2025" \
+          -V REVISION="$REV" \
           -V IES="IES Mar de Cádiz" \
           -V DPTO="Dpto. Informática y Comunicaciones" \
           -V CIUDAD="El Puerto de Santa María" \
@@ -57,6 +66,7 @@ jobs:
           -o sintesis_PI.pdf
 
       - name: Upload PDF artifact
+        working-directory: ./Programación
         uses: actions/upload-artifact@v4
         with:
           name: pi_pdfs
