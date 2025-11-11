@@ -1,6 +1,5 @@
-# I.E.S. MAR DE CÁDIZ  
-## CFGS Administración de Sistemas Informáticos en Red (2º curso)  
-### Documento de Síntesis de la Programación Didáctica
+# Documento de Síntesis de la Programación Didáctica
+## I.E.S. Mar de Cádiz -  CFGS Administración de Sistemas Informáticos en Red (2º curso)  
 
 - **Módulo profesional:** Proyecto Integrado (PI – Código 0379)  
 - **Curso escolar:** 2025/2026
@@ -11,6 +10,7 @@ Los resultados de aprendizaje (RA) del módulo profesional **Proyecto de Adminis
 Cada RA se concreta mediante criterios de evaluación observables y medibles, que sirven como referencia para valorar el grado de adquisición de las competencias profesionales, personales y sociales propias del título.
 
 La ponderación se distribuye de la siguiente manera:
+
 - **50 %** de la calificación corresponde a la **valoración del tutor o tutora del proyecto**, repartido equitativamente entre los cuatro resultados de aprendizaje (12,5 % cada uno).  
 - **50 %** restante corresponde a la **valoración del tribunal docente** en la defensa final del proyecto.
 
@@ -21,7 +21,7 @@ La ponderación se distribuye de la siguiente manera:
 **Contribución del RA1:** 12,5 %  
 
 | Letra | Criterio de evaluación | % |
-| :---: | ------------------------------------------------------------ | :--: |
+| :----: | ------------------------------------------------------------ | :--: |
 | a) | Se han clasificado las empresas del sector por sus características organizativas y el tipo de producto o servicio que ofrecen. | 11,11 |
 | b) | Se han caracterizado las empresas tipo indicando la estructura organizativa y las funciones de cada departamento. | 11,11 |
 | c) | Se han identificado las necesidades más demandadas a las empresas. | 11,11 |
@@ -39,7 +39,7 @@ La ponderación se distribuye de la siguiente manera:
 **Contribución del RA2:** 12,5 %  
 
 | Letra | Criterio de evaluación | % |
-| :---: | ------------------------------------------------------------ | :--: |
+| :----: | ------------------------------------------------------------ | :--: |
 | a) | Se ha recopilado información relativa a los aspectos que van a ser tratados en el proyecto. | 11,11 |
 | b) | Se ha realizado el estudio de viabilidad técnica del mismo. | 11,11 |
 | c) | Se han identificado las fases o partes que componen el proyecto y su contenido. | 11,11 |
@@ -57,7 +57,7 @@ La ponderación se distribuye de la siguiente manera:
 **Contribución del RA3:** 12,5 %  
 
 | Letra | Criterio de evaluación | % |
-| :---: | ------------------------------------------------------------ | :--: |
+| :----: | ------------------------------------------------------------ | :--: |
 | a) | Se han secuenciado las actividades ordenándolas en función de las necesidades de implementación. | 12,5 |
 | b) | Se han determinado los recursos y la logística necesaria para cada actividad. | 12,5 |
 | c) | Se han identificado las necesidades de permisos y autorizaciones para llevar a cabo las actividades. | 12,5 |
@@ -74,7 +74,7 @@ La ponderación se distribuye de la siguiente manera:
 **Contribución del RA4:** 12,5 %  
 
 | Letra | Criterio de evaluación | % |
-| :---: | ------------------------------------------------------------ | :--: |
+| :----: | ------------------------------------------------------------ | :--: |
 | a) | Se ha definido el procedimiento de evaluación de las actividades o intervenciones. | 14,29 |
 | b) | Se han definido los indicadores de calidad para realizar la evaluación. | 14,29 |
 | c) | Se ha definido el procedimiento para la evaluación de las incidencias que puedan presentarse durante la realización de las actividades, su posible solución y registro. | 14,29 |
@@ -104,18 +104,20 @@ Se valorarán los siguientes aspectos:
 
 La **calificación final del módulo** se obtendrá mediante la ponderación de dos bloques de evaluación:
 
-  **a) Valoración del tutor o tutora del proyecto (50 %):**  
-  Corresponde al seguimiento continuo del trabajo realizado por el alumnado durante todo el proceso.  
-  Este porcentaje se distribuirá de forma equilibrada entre los cuatro resultados de aprendizaje (RA), a razón de un **12,5 % por cada RA**, valorando:  
+### Valoración del tutor o tutora del proyecto (50 %)
+
+- Corresponde al seguimiento continuo del trabajo realizado por el alumnado durante todo el proceso.  
+- Este porcentaje se distribuirá de forma equilibrada entre los cuatro resultados de aprendizaje (RA), a razón de un **12,5 % por cada RA**, valorando:
   - La planificación, organización y cumplimiento de los objetivos establecidos.  
   - La calidad técnica y la viabilidad del proyecto.  
   - La autonomía, responsabilidad y capacidad de resolución de problemas.  
   - La correcta documentación y justificación del trabajo realizado.  
 
-  **b) Valoración del tribunal docente (50 %):**  
-  Corresponde a la **defensa final del proyecto** ante una representación del equipo docente.  
-  Se valorará la calidad global del proyecto, la claridad y precisión de la exposición oral, la justificación técnica de las decisiones adoptadas, el rigor en la documentación presentada y la actitud profesional mostrada durante la presentación.  
-  Esta valoración se integrará como un único bloque equivalente al 50 % de la nota final del módulo.
+### Valoración del tribunal docente (50 %)
+
+- Corresponde a la **defensa final del proyecto** ante una representación del equipo docente.
+- Se valorará la calidad global del proyecto, la claridad y precisión de la exposición oral, la justificación técnica de las decisiones adoptadas, el rigor en la documentación presentada y la actitud profesional mostrada durante la presentación.
+- Esta valoración se integrará como un único bloque equivalente al 50 % de la nota final del módulo.
 
 Para superar el módulo será necesario obtener una **calificación mínima de 5,0 puntos sobre 10** tanto en la media ponderada final como en la valoración del tutor y del tribunal.  
 
@@ -130,10 +132,12 @@ Se ajustará a la metodología del módulo, basada en el **aprendizaje por proye
 
 El proceso evaluador se estructurará en torno a **entregas parciales** vinculadas a las distintas fases del proyecto, y una **entrega final** con defensa ante tribunal docente. Cada entrega supone una evidencia de aprendizaje y un hito de evaluación, en el que el profesorado valorará el progreso en los resultados de aprendizaje (RA) y la coherencia técnica y documental del proyecto.
 
-**Primera iteración: hasta el 5 de diciembre de 2025**
+### Primera iteración: hasta el 5 de diciembre de 2025
+
 - **Avances técnicos:** corresponden a un **primer prototipo funcional**, en el que pueda observarse al menos una de las funcionalidades básicas previstas del sistema o servicio que se pretende desarrollar. Este primer avance debe reflejar la comprensión global del proyecto y sentar las bases técnicas sobre las que se construirán las siguientes fases.
 
 - **Avances documentales:** corresponden a la fase de **análisis y planteamiento inicial del proyecto**. El alumnado identificará las necesidades del entorno o del caso de estudio, realizará un diagnóstico de la situación actual y definirá los objetivos generales y específicos del proyecto. Se elaborará un guion de trabajo que sirva de hoja de ruta para las iteraciones posteriores y se presentará la **primera entrega parcial**, que incluirá:
+
   - Propuesta inicial del proyecto.  
   - Estudio de viabilidad técnica y económica.  
   - Justificación técnica preliminar y delimitación del alcance.  
@@ -141,10 +145,12 @@ El proceso evaluador se estructurará en torno a **entregas parciales** vinculad
 Se valorará especialmente el progreso en el **RA1 (análisis del contexto y detección de necesidades)**, así como la coherencia entre los objetivos planteados y las posibles soluciones propuestas.
 
 
-**Segunda iteración: hasta el 30 de enero de 2026**
+### Segunda iteración: hasta el 30 de enero de 2026
+
 - **Avances técnicos:** se espera una **evolución significativa del prototipo**, incorporando la arquitectura definida y varios de los componentes o servicios principales del sistema. Debe apreciarse la consolidación del diseño y la integración parcial de funcionalidades.
 
 - **Avances documentales:** esta fase se centra en el **diseño técnico y planificación del proyecto**. El alumnado deberá definir la arquitectura del sistema, los recursos necesarios, la secuenciación de tareas y los mecanismos de control de calidad. La **segunda entrega parcial** incluirá:
+
   - Planificación detallada de las tareas y cronograma del proyecto.  
   - Diseño técnico y diagramas de red, flujo o dependencias.  
   - Descripción de recursos materiales, humanos y tecnológicos.  
@@ -152,10 +158,12 @@ Se valorará especialmente el progreso en el **RA1 (análisis del contexto y det
 
 Se valorará el progreso en el **RA2 (diseño y planificación del proyecto)**, prestando especial atención a la viabilidad y coherencia técnica del diseño presentado.
 
-**Tercera iteración: hasta el 27 de marzo de 2026**
+### Tercera iteración: hasta el 27 de marzo de 2026
+
 - **Avances técnicos:** deben demostrarse **funcionalidades operativas completas o parciales del sistema**, evidenciando la correcta implementación de los servicios principales. Se espera que el proyecto haya alcanzado un estado cercano al despliegue real o simulado, con pruebas de funcionamiento y primeras tareas de validación.
 
 - **Avances documentales:** se abordará la **organización y ejecución parcial del proyecto**, documentando los procedimientos realizados, las incidencias detectadas y las acciones correctivas adoptadas. La **tercera entrega parcial** incluirá:
+
   - Informe técnico de ejecución y estado de desarrollo.  
   - Resultados de pruebas y validación de componentes.  
   - Registro de incidencias y medidas de corrección.  
@@ -164,10 +172,12 @@ Se valorará el progreso en el **RA2 (diseño y planificación del proyecto)**, 
 Se valorará especialmente el **RA3 (organización y ejecución del proyecto)**, evaluando la capacidad del alumnado para aplicar soluciones técnicas reales y gestionar los imprevistos de forma eficaz.
 
 
-**Cuarta iteración: hasta el 15 de mayo de 2026**
+### Cuarta iteración: hasta el 15 de mayo de 2026
+
 - **Producto** el alumnado deberá presentar la **versión final del proyecto plenamente operativa**, en la que todas las funcionalidades estén integradas y documentadas. La solución deberá ser estable, reproducible y ajustada a los objetivos iniciales.
 
 - **Documentación del producto:** esta fase está dedicada a la **finalización, evaluación y documentación del proyecto**. La **cuarta entrega parcial** incluirá:
+
   - Memoria técnica completa del proyecto.  
   - Anexos, manuales de usuario y documentación de mantenimiento.  
   - Evaluación de resultados, conclusiones y propuestas de mejora.  
@@ -177,9 +187,11 @@ Se valorará el progreso en el **RA4 (evaluación, documentación y control del 
 
 
 **Entrega final y defensa ante tribunal: última semana de mayo de 2026**
+
 Tras la entrega final, el alumnado deberá realizar la **defensa del proyecto ante un tribunal docente**, presentando de manera profesional la solución técnica desarrollada. La exposición incluirá una demostración funcional, la justificación de las decisiones tomadas, el análisis de resultados y las conclusiones finales.
 
 Durante la defensa se valorarán:
+
 - La **capacidad de comunicación y argumentación técnica**.  
 - La **claridad y estructura** de la exposición.  
 - La **profundidad en el conocimiento del proyecto** y su viabilidad.  
