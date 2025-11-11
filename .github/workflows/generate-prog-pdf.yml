@@ -5,12 +5,12 @@ on:
     paths:
       - 'Programación/README.md'
       - 'Programación/SINTESIS.md'
-      - '.github/generate-prog-pdf.yml'
+      - '.github/workflows/generate-prog-pdf.yml'
   pull_request:
     paths:
       - 'Programación/README.md'
       - 'Programación/SINTESIS.md'
-      - '.github/generate-prog-pdf.yml'
+      - '.github/workflows/generate-prog-pdf.yml'
 
 jobs:
   build:
