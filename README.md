@@ -567,36 +567,35 @@ Todas las actividades complementarias y extraescolares deberán estar programada
 
 # Recursos didácticos
 
-El proceso de enseñanza-aprendizaje del módulo profesional requiere el uso de recursos materiales, tecnológicos y documentales actualizados, que favorezcan el desarrollo competencial del alumnado y la adquisición práctica de los resultados de aprendizaje.
+El proceso de enseñanza-aprendizaje del módulo profesional **Proyecto de Administración de Sistemas Informáticos en Red (0379)** requiere el uso de recursos materiales, tecnológicos y documentales actualizados, que faciliten el desarrollo de las competencias profesionales, personales y sociales del alumnado, así como la aplicación práctica e integrada de los resultados de aprendizaje en un entorno lo más cercano posible al profesional.
 
 ## Recursos materiales y tecnológicos
-- **Aulas específicas y laboratorios de red** equipados con ordenadores, routers, switches gestionables, puntos de acceso, cableado estructurado y servidores locales.  
-- **Entornos virtualizados** (VirtualBox, Proxmox, VMware o similares) para la simulación de servicios y redes empresariales.  
-- **Sistemas operativos libres y propietarios**, tanto en servidor como en cliente (Debian, Ubuntu Server, Windows Server).  
-- **Software de administración de red y servicios**, incluyendo BIND, Kea, Apache/Nginx, vsftpd, Postfix/Dovecot, ejabberd, Icecast, Jitsi o similares.  
-- **Herramientas de monitorización y diagnóstico de red** (Wireshark, nmap, netstat, iperf, etc.).  
-- **Entornos colaborativos y de control de versiones** (GitHub Classroom, Git, Google Workspace o plataformas LMS del centro).  
-- **Material audiovisual y proyectores** para presentaciones, explicaciones y defensa de proyectos.  
-- **Recursos digitales** del aula virtual (Classroom, Moodle u otros entornos institucionales).  
+- **Aulas específicas y laboratorios de red** equipados con ordenadores, routers, switches gestionables, puntos de acceso, cableado estructurado y servidores locales, que permitan la simulación y prueba de infraestructuras reales.  
+- **Entornos virtualizados** (VirtualBox, Proxmox, VMware, o similares) para el despliegue de sistemas, servicios y redes en escenarios experimentales de desarrollo y producción.  
+- **Sistemas operativos libres y propietarios**, tanto en servidor como en cliente (Debian, Ubuntu Server, Rocky Linux, Windows Server), que posibiliten la implementación multiplataforma de las soluciones técnicas.  
+- **Software de administración de servicios y automatización**, incluyendo BIND, Kea, Apache/Nginx, PostgreSQL/MySQL, Docker, Ansible, Git o similares.  
+- **Herramientas de monitorización y diagnóstico** (Wireshark, nmap, iperf, Grafana, Nagios, etc.), orientadas al análisis del rendimiento y la seguridad de los sistemas desplegados.  
+- **Entornos colaborativos y de control de versiones** (GitHub Classroom, Git, Google Workspace, plataformas LMS o repositorios institucionales), que favorezcan el trabajo autónomo y la documentación compartida del proyecto.  
+- **Material audiovisual y proyectores** para presentaciones, tutorías colectivas y defensa del proyecto.  
+- **Recursos digitales del aula virtual** (Classroom, Moodle u otros entornos del centro), utilizados para la entrega de evidencias, retroalimentación y comunicación con el profesorado.
 
 ## Recursos documentales y bibliográficos
-- Manuales oficiales y guías de instalación y administración de servicios de red.  
-- Documentación técnica y normativa de referencia (RFC, BOE, BOJA, Reales Decretos, guías INCIBE, CCN-CERT).  
-- Apuntes, guías de prácticas y ejercicios elaborados por el profesorado.  
-- Bibliografía y materiales multimedia sobre tecnologías actuales (DNSSEC, IPv6, HTTPS, Cloud Computing, virtualización, automatización de sistemas).  
-- Recursos en línea: documentación oficial de Linux, Microsoft Learn, AWS Academy, Cisco Networking Academy, etc.
-- **Libros de referencia**:  
-  - Molina Robles, Francisco José. *Servicios de red e Internet*. RA-MA, 2011.  
-  - Schroder, Carla. *Redes en Linux. Guía de referencia*. Anaya-Multimedia O’Reilly.  
-  - Mifsud Talón, E.; Lerma-Blasco, R.V. *Servicios en Red*. McGraw-Hill, 2010.    
+- Manuales y guías de instalación, administración y seguridad de sistemas operativos y servicios de red.  
+- Documentación técnica y normativa vigente: RFC, BOE, BOJA, Reales Decretos, guías del CCN-CERT, INCIBE, ISO 27001, ENS, etc.  
+- Apuntes, guías de aprendizaje y plantillas elaboradas por el profesorado del departamento.  
+- Bibliografía técnica actualizada sobre administración de sistemas, virtualización, contenedores, DevOps y cloud computing.  
+- Recursos en línea: documentación oficial de Linux, Microsoft Learn, Cisco Networking Academy, AWS Academy, Red Hat Learning o similar.  
+- Plantillas de documentación técnica (memorias, presupuestos, diagramas, cronogramas) utilizadas como modelo para la elaboración del proyecto final.
 
 ## Recursos humanos y organizativos
-- **Profesorado del Departamento de Informática**, especializado en administración de sistemas, redes y servicios.  
-- **Tutoría dual docente**, encargada de la coordinación con las empresas colaboradoras y el seguimiento del alumnado en la fase dual.  
-- **Colaboración con el Departamento de Orientación** para la atención a la diversidad y orientación profesional.  
-- **Asesoramiento técnico y apoyo del coordinador TIC del centro**.  
+- **Profesorado del Departamento de Informática**, con experiencia en administración de sistemas, redes y virtualización, responsable de la tutorización y evaluación del módulo.  
+- **Colaboración con el Departamento de Orientación**, para la atención a la diversidad, orientación profesional y desarrollo de competencias transversales.  
+- **Asesoramiento técnico del coordinador TIC del centro**, para el mantenimiento de infraestructuras y soporte tecnológico del alumnado.  
+- **Participación del equipo docente del ciclo formativo** en el tribunal de defensa del proyecto, garantizando una evaluación colegiada y objetiva.
 
-El conjunto de estos recursos garantiza un aprendizaje **tecnológicamente actualizado, inclusivo y contextualizado** con la realidad profesional del sector TIC, facilitando la transferencia de competencias desde el entorno formativo al productivo.
+El conjunto de estos recursos garantiza un aprendizaje **actual, inclusivo, flexible y contextualizado** con la realidad profesional del sector TIC.  
+Permiten que el alumnado desarrolle un proyecto técnico realista, con autonomía y sentido profesional, aplicando las herramientas, metodologías y estándares propios del entorno laboral de la **Administración de Sistemas Informáticos en Red**.
+
 
 # Evaluación y seguimiento de la programación
 
