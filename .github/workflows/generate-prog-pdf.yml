@@ -66,10 +66,9 @@ jobs:
           -o sintesis_PI.pdf
 
       - name: Upload PDF artifact
-        working-directory: ./Programación
         uses: actions/upload-artifact@v4
         with:
           name: pi_pdfs
           path: |
-            programacion_PI.pdf
-            sintesis_PI.pdf
+            ./Programación/programacion_PI.pdf
+            ./Programaciónsintesis_PI.pdf
