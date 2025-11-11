@@ -2,8 +2,8 @@
 ## CFGS Administración de Sistemas Informáticos en Red (2º curso)  
 ### Documento de Síntesis de la Programación Didáctica
 
-**Módulo profesional:** Proyecto Integrado (PI – Código 0379)  
-**Curso escolar:** 2025/2026
+- **Módulo profesional:** Proyecto Integrado (PI – Código 0379)  
+- **Curso escolar:** 2025/2026
 
 ---
 
