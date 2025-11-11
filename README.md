@@ -1,176 +1,174 @@
-# Introducción
+# Identificación del módulo profesional
 
-## Justificación  
-El módulo profesional **Proyecto de administración de sistemas informáticos en red (PI)** forma parte del segundo curso del ciclo formativo de **Administración de Sistemas Informáticos en Red (ASIR)**. Su finalidad es que el alumnado integre de forma global las competencias adquiridas a lo largo del ciclo, aplicándolas en el diseño, planificación, desarrollo y evaluación de un proyecto técnico completo, coherente con las necesidades reales del entorno profesional.
+| Elemento | Descripción |
+|-----------|-------------|
+| **Denominación** | Proyecto de Administración de Sistemas Informáticos en Red |
+| **Código** | 0379 |
+| **Familia Profesional** | Informática y Comunicaciones |
+| **Ciclo Formativo** | Administración de Sistemas Informáticos en Red (ASIR) |
+| **Nivel** | Grado Superior |
+| **Curso** | Segundo |
+| **Duración total** | 70 horas |
+| **Modalidad de impartición** | Presencial |
+| **Departamento responsable** | Departamento de Informática – IES Mar de Cádiz |
 
-Este módulo supone la culminación práctica de la formación del ciclo. A través de él, el alumnado consolida sus capacidades técnicas, metodológicas y organizativas, desarrollando un proyecto que simula un encargo profesional real dentro del ámbito de la administración de sistemas informáticos. En este sentido, el Proyecto Integrado constituye un espacio de aprendizaje autónomo y de madurez profesional, orientado al desarrollo de la responsabilidad, la iniciativa personal, la planificación y la autoevaluación.
 
-El **Proyecto de administración de sistemas informáticos en red** tiene una naturaleza eminentemente aplicada, y su principal objetivo es que el alumnado sea capaz de concebir, planificar y documentar una solución tecnológica completa: desde el análisis de necesidades hasta la evaluación de resultados, pasando por el diseño técnico y la planificación de la ejecución.  
+# Justificación
 
-## Contextualización del módulo en el ciclo formativo  
-El módulo se imparte en el **segundo curso** del CFGS de Administración de Sistemas Informáticos en Red, con una duración total de **70 horas**, distribuidas en **2 horas semanales** a lo largo de **35 semanas lectivas**.  
+El módulo profesional **Proyecto de Administración de Sistemas Informáticos en Red (PI)** constituye el elemento integrador del segundo curso del Ciclo Formativo de Grado Superior en **Administración de Sistemas Informáticos en Red (ASIR)**.  
 
-A diferencia del resto de módulos, el **Proyecto Integrado** no se desarrolla mediante unidades didácticas convencionales, sino a través de **fases de trabajo progresivas** en las que el alumnado analiza un contexto, diseña una propuesta técnica y planifica su implantación. El desarrollo del proyecto se realiza bajo la supervisión y orientación del profesorado tutor, que actúa como guía metodológica y evaluadora del proceso.  
+Su finalidad es **sintetizar e integrar los conocimientos, destrezas y actitudes adquiridos** a lo largo de los distintos módulos del ciclo, mediante la **planificación, desarrollo y presentación de un proyecto técnico completo** que reproduzca las condiciones reales de trabajo en el ámbito profesional.  
 
-Este módulo guarda una relación directa con el resto de materias del ciclo, ya que exige aplicar conocimientos y destrezas de **implantación de sistemas operativos, servicios en red, seguridad, administración de bases de datos, entornos virtualizados y documentación técnica profesional**.  
+En un contexto marcado por la **transformación digital, la automatización de infraestructuras, la gestión de entornos híbridos y la adopción de metodologías DevOps**, resulta imprescindible que el alumnado demuestre su capacidad para diseñar soluciones tecnológicas viables, seguras y sostenibles que respondan a necesidades concretas de organizaciones o empresas.  
 
-De esta manera, el Proyecto Integrado se concibe como la síntesis práctica de todo el itinerario formativo, favoreciendo la adquisición de competencias profesionales, personales y sociales de manera transversal.
+Este módulo promueve el desarrollo de competencias transversales como la **autonomía, la planificación, la resolución de problemas, la colaboración y la comunicación técnica**, favoreciendo una aproximación profesional y realista al trabajo en equipo y a la gestión de proyectos tecnológicos.  
 
-## Marco legislativo  
-El desarrollo del presente módulo se apoya en la siguiente normativa:
+De acuerdo con las **orientaciones pedagógicas oficiales** recogidas en la Orden de 19 de julio de 2010 (BOJA nº 168), el módulo de Proyecto complementa la formación de los demás módulos del ciclo y contribuye a alcanzar las competencias propias del título en relación con:
 
-- **Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE)**, modificada por la **Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE)**.  
-- **Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional**.  
-- **Real Decreto 1147/2011, de 29 de julio**, por el que se establece la ordenación general de la Formación Profesional del sistema educativo.  
-- **Real Decreto 1629/2009, de 30 de octubre**, por el que se establece el título de Técnico Superior en Administración de Sistemas Informáticos en Red y se fijan sus enseñanzas mínimas.  
-- **Decreto 436/2008, de 2 de septiembre**, por el que se establecen las enseñanzas de la Formación Profesional inicial en Andalucía.  
-- **Orden de 19 de julio de 2010**, por la que se desarrolla el currículo correspondiente al título de Técnico Superior en Administración de Sistemas Informáticos en Red en Andalucía.  
-- **Currículo oficial del módulo profesional “Proyecto de administración de sistemas informáticos en red”**, publicado en el **Boletín Oficial de la Junta de Andalucía (BOJA)**.  
-- Normativa autonómica vigente sobre evaluación, atención a la diversidad, y planes educativos transversales.
+- La **identificación de necesidades del sector** y la formulación de soluciones tecnológicas adecuadas.  
+- El **diseño y planificación de proyectos** relacionados con la administración de sistemas informáticos en red.  
+- La **organización y ejecución** de las fases de desarrollo, implantación y control.  
+- La **evaluación y documentación** técnica del proyecto, aplicando criterios de calidad, seguridad y viabilidad.  
+- El **trabajo en equipo, la responsabilidad y la autoevaluación** como elementos esenciales del desempeño profesional.
 
-# Objetivos
-## Objetivos generales del ciclo formativo  
-De acuerdo con la **Orden de 19 de julio de 2010**, por el que se establece el título de Técnico Superior en Administración de Sistemas Informáticos en Red, los objetivos generales del ciclo son:  
+
+# Contexto educativo
+
+El desarrollo curricular de este módulo debe tener en cuenta las realidades sociales, económicas y profesionales de la zona en que el centro esté situado, las características de los centros formativos, tipo de alumnos.... Por tanto se debe hacer un análisis del entorno socioeconómico, del centro educativo y de las características de los alumnos.
+
+Nuestro Centro está ubicado en el extremo oeste de la ciudad de El Puerto de Santa María, en el límite entre el casco urbano y las nuevas zonas residenciales, conformando el cruce entre las avenidas Rafael Alberti y El Camino de los Enamorados, a los pies del Pinar de San Antón, zona verde protegida que supone el principal pulmón de la ciudad.
+
+Se trata de un centro construido en 1986, hasta entonces se ocupa el antiguo convento de Santo Domingo donde se impartían enseñanzas de Formación Profesional. Desde los comienzos del Centro hasta la actualidad, se ha caracterizado por la innovación, la apertura a diferentes proyectos, transformación de enseñanzas, Educación Polivalente, Bachilleratos Experimentales, Bachilleratos LOGSE, Módulos profesionales y Ciclos Formativos.
+
+El I.E.S Mar de Cádiz ha sido el embrión de centros en la enseñanza pública portuense, como el I.E.S José Luis Tejada o el I.E.S Pintor Juan Lara.
+
+Tiene cuatro edificios, dos pistas asfaltadas y una de atletismo. Disponemos de beneficios importantes. Eliminación de barreras arquitectónicas. Calefacción. Ascensores. Aulas ordinarias. Aulas TIC. Aulas específicas de ciclos formativos. Laboratorios de Física y Química. Laboratorio de Biología. Gimnasio. Aula de Artística. Laboratorio de Tecnología de Bachillerato. Aula de Música y de Dibujo.
+
+Disfrutamos de amplias zonas verdes con gran variedad de árboles y plantas, un gran salón de actos, aula de audiovisuales y una estupenda biblioteca.
+
+Desarrollamos fundamentalmente nuestra actividad en jornada de mañana, desde las ocho y media hasta las tres de la tarde, con un periodo de descanso comprendido entre las once y media y doce de la mañana. La diversidad de las enseñanzas que se imparten en el Centro y el número de alumnos que asisten a él, obliga a que uno de los ciclos superiores desarrolle su actividad en jornada de tarde, desde las quince cuarenta y cinco hasta las veintidós horas.
+
+La ya mencionada diversidad educativa que se desarrolla en el Centro, (ESO, Bachilleratos, Ciclos Formativos de Grado Básico, Ciclos Formativos de Grado Medio y Ciclos Formativos de Grado Superior), nos proporcionan una serie de recursos (talleres, aulas específicas, laboratorios, materiales didácticos, etc.). Que convenientemente gestionados, organizados y planificados benefician de una manera importante toda la actividad docente y permiten al alumnado de los niveles inferiores tener una visión clara y muy completa de las posibilidades de futuro que les proporciona el actual Sistema Educativo.
+
+## Análisis del entorno socioeconómico
+
+El alumnado de nuestro Centro procede de familias con una situación económica media, media-baja dentro del contexto local. Aumentan cada año las familias donde trabajan ambos cónyuges notándose en estos casos grandes dificultades en el seguimiento de la evolución del proceso educativo por parte de sus madres y sus padres. Así también se incrementa el número de familias migrantes, llegando algunos años a formar parte de nuestra comunidad alumnos de dieciséis nacionalidades distintas, si bien hay que decir que su integración no crea ningún problema de convivencia significativo.
+
+En el I.E.S. Mar de Cádiz se ofertan las siguientes enseñanzas:
+
+- Educación Secundaria Obligatoria.
+- Bachillerato de Humanidades y Ciencias Sociales.
+- Bachillerato de Ciencias y Tecnología.
+- Ciclo Formativo de Grado Medio de Sistemas Microinformáticos y Redes.
+- Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Web.
+- Ciclo Formativo de Grado Superior de Administración y Finanzas.
+- Ciclo Formativo de Grado Superior de Animación de Actividades Físicas y Deportivas.
+- Ciclo Formativo de Grado Superior de Administración de Sistemas Informáticos en Red.
+- Curso de Especialización en Ciberseguridad.
+- Ciclo Formativo de Grado Superior de Sistemas de Telecomunicaciones.
+- Ciclo Formativo de Grado Medio en Gestión Administrativa.
+- Ciclo Formativo de Grado Medio en Instalaciones de Telecomunicaciones.
+- Ciclos Formativos de Grado Básico de Servicios Administrativos e Informática y Comunicaciones.
+
+## Análisis de las características del alumnado
+
+De acuerdo con las diversas posibilidades de acceso de los alumnos al ciclo formativo, existe en principio, una diversidad potencial en cuanto al grado de conocimientos que los alumnos han adquirido. El grupo se compone de alumnado con edades comprendidas entre los dieciocho y los treinta años. Hay un grupo de alumnos que poseen experiencia laboral. Debemos realizar un diagnóstico de las mismas como fase previa a la adecuación del currículo al centro. Entre los aspectos que debemos analizar podemos encontrar:  
+
+  - Conocimiento del nivel socioeconómico de los padres.  
+  - Conocimiento de los estudios y profesión de los padres.  
+  - Análisis de los conocimientos previos de los alumnos en relación con la materia a estudiar.  
+  - Conocimiento de los itinerarios cursados por los alumnos en etapas anteriores.  
+  - Conocimiento de la forma de acceso de los alumnos al ciclo formativo.  
+  - Conocimiento del nivel de información y orientación que traen sobre la materia a estudiar.  
+  - Situación personal y laboral de los alumnos.  
+  - Motivación con respecto a los estudios elegidos.
+
+
+
+# Marco normativo
+
+- **Ley Orgánica 2/2006**, de 3 de mayo, de Educación.
+- **Ley Orgánica 3/2022**, de 31 de marzo, de ordenación e integración de la Formación Profesional.
+- **Ley 17/2007**, de 10 de diciembre, de Educación de Andalucía.
+- **Ley Orgánica 5/2002**, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
+- **Ley Orgánica 3/2020**, de 29 de diciembre (LOMLOE), por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE).
+- Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA).
+- Real Decreto 499/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado medio y se fijan sus enseñanzas mínimas.
+- **Real Decreto 1629/2009**, de 30 de octubre, por el que se establece el título de **Técnico Superior en Administración de Sistemas Informáticos en Red** y se fijan sus enseñanzas mínimas.
+- **Orden EDU/392/2010**, de 20 de enero, por la que se establece el currículo del ciclo formativo de grado superior correspondiente al título de **Técnico Superior en Administración de Sistemas Informáticos en Red**.
+- Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
+- Decreto 147/2025, de 17 de septiembre de 2025, por el que se establece la ordenación de las enseñanzas de los Grados D y E del Sistema de Formación Profesional en la Comunidad Autónoma de Andalucía.
+- **Decreto 147/2025**, de 17 de septiembre, por el que se establece la ordenación de las enseñanzas de los Grados D y E del Sistema de Formación Profesional en la Comunidad Autónoma de Andalucía.
+- **Orden de 18 de septiembre de 2025**, por la que se regula la evaluación, certificación, acreditación y titulación académica del alumnado que cursa enseñanzas de los grados D y E del Sistema de Formación Profesional en la Comunidad Autónoma de Andalucía.
+- **Orden de 26 de septiembre de 2025**, por la que se regula la fase de formación en empresa u organismo equiparado de los grados D y E del Sistema de Formación Profesional de la Comunidad Autónoma de Andalucía.
+
+
+# Competencias profesionales, personales y sociales
+
+Las competencias profesionales, personales y sociales constituyen el conjunto integrado de habilidades, conocimientos y actitudes que el alumnado debe desarrollar para desempeñar su actividad profesional de manera eficaz. En el marco del título de Técnico Superior en Administración de Sistemas Informáticos en Red, estas competencias permiten al alumnado adaptarse a las exigencias del entorno laboral, colaborar en equipos, resolver problemas, y autoactualizarse de forma continua.
+
+a) Administrar sistemas operativos de servidor, instalando y configurando el software, en condiciones de calidad para asegurar el funcionamiento del sistema.  
+b) Administrar servicios de red (Web, mensajería electrónica y transferencia de archivos, entre otros), instalando y configurando el software, en condiciones de calidad.  
+c) Administrar aplicaciones instalando y configurando el software, en condiciones de calidad para responder a las necesidades de la organización.  
+d) Implantar y gestionar bases de datos instalando y administrando el software de gestión en condiciones de calidad, según las características de la explotación.  
+e) Optimizar el rendimiento del sistema configurando los dispositivos hardware de acuerdo a los requisitos de funcionamiento.  
+f) Evaluar el rendimiento de los dispositivos hardware identificando posibilidades de mejoras según las necesidades de funcionamiento.  
+g) Determinar la infraestructura de redes telemáticas elaborando esquemas y seleccionando equipos y elementos.  
+h) Integrar equipos de comunicaciones en infraestructuras de redes telemáticas determinando la configuración para asegurar su conectividad.  
+i) Implementar soluciones de alta disponibilidad, analizando las distintas opciones posibles, para asegurar la continuidad del servicio.  
+j) Supervisar la seguridad física según especificaciones del fabricante y el plan de seguridad para evitar interrupciones en la prestación de servicios del sistema.  
+k) Asegurar el sistema y los datos según las necesidades de uso y las condiciones de seguridad establecidas para prevenir fallos y ataques externos.  
+l) Administrar usuarios de acuerdo a las especificaciones de explotación para garantizar los accesos y la disponibilidad de los recursos del sistema.  
+m) Diagnosticar las disfunciones del sistema y adoptar las medidas correctivas para restablecer su funcionalidad.  
+n) Gestionar y/o realizar el mantenimiento de los recursos de su área (programando y verificando su cumplimiento), en función de las cargas de trabajo y el plan de mantenimiento.  
+ñ) Mantener la limpieza y el orden en el lugar de trabajo, cumpliendo las normas de competencia técnica y los requisitos de salud laboral.  
+o) Efectuar consultas, dirigiéndose a la persona adecuada y saber respetar la autonomía de los subordinados, informando cuando sea conveniente.  
+p) Mantener el espíritu de innovación y actualización en el ámbito de su trabajo para adaptarse a los cambios tecnológicos y organizativos de su entorno profesional.  
+q) Liderar situaciones colectivas que se produzcan, resolviendo conflictos y contribuyendo activamente al equipo con actitudes de respeto, tolerancia y responsabilidad.  
+r) Adaptarse a diferentes puestos de trabajo y nuevas situaciones laborales, originadas por cambios tecnológicos y organizativos.  
+s) Resolver problemas y tomar decisiones individuales, siguiendo las normas y procedimientos establecidos, definidos dentro del ámbito de su competencia.  
+t) Gestionar su carrera profesional, analizando oportunidades de empleo, autoempleo y aprendizaje.  
+u) Crear y gestionar una pequeña empresa, realizando un estudio de viabilidad de productos, de planificación de la producción y de comercialización.  
+v) Participar de forma activa en la vida económica, social y cultural con una actitud crítica y responsable.  
+
+# Objetivos generales del ciclo
+
+De conformidad con lo establecido en el artículo 9 del Real Decreto 1629/2009, de 30 de octubre, por el que se establece el título de Técnico Superior en Administración de Sistemas Informáticos en Red y se fijan sus enseñanzas mínimas, los objetivos generales de las enseñanzas correspondientes al mismo son:
 
 a) Analizar la estructura del software de base, comparando las características y prestaciones de sistemas libres y propietarios, para administrar sistemas operativos de servidor.  
 b) Instalar y configurar el software de base, siguiendo documentación técnica y especificaciones dadas, para administrar sistemas operativos de servidor.  
-c) Instalar y configurar software de mensajería, transferencia de ficheros y otros servicios de red, relacionándolos con su aplicación, para administrar servicios en red.  
-d) Administrar aplicaciones y sistemas gestores de bases de datos, siguiendo especificaciones y garantizando su explotación segura y eficiente.  
-e) Configurar dispositivos hardware y redes telemáticas, analizando sus características funcionales, para optimizar el rendimiento del sistema y garantizar la conectividad.  
-f) Implantar soluciones de seguridad y alta disponibilidad, seleccionando herramientas y técnicas para asegurar la integridad del sistema y de los datos.  
-g) Diagnosticar disfunciones en sistemas y redes, aplicando técnicas de monitorización, para restablecer su funcionalidad.  
-h) Gestionar usuarios, accesos y recursos del sistema, garantizando la disponibilidad y la seguridad.  
-i) Planificar y ejecutar tareas de mantenimiento, analizando cargas de trabajo y actividades del sistema.  
-j) Mantener una actitud de innovación y actualización permanente ante los cambios tecnológicos y organizativos del sector.  
-k) Fomentar el espíritu emprendedor y la capacidad de autoempleo.  
-l) Participar de forma activa en la vida económica, social y cultural con actitud crítica y responsable.  
-m) Conocer y aplicar la legislación laboral y los derechos y deberes derivados de las relaciones laborales.  
-n) Trabajar en condiciones de seguridad y salud, identificando riesgos y aplicando medidas preventivas.
-ñ) Aplicar técnicas de monitorización interpretando los resultados y relacionándolos con las medidas correctoras para diagnosticar y corregir las disfunciones.
-o) Establecer la planificación de tareas, analizando actividades y cargas de trabajo del sistema para gestionar el mantenimiento.
-p) Identificar los cambios tecnológicos, organizativos, económicos y laborales en su actividad, analizando sus implicaciones en el ámbito de trabajo, para resolver problemas y mantener una cultura de actualización e innovación.
-q) Identificar formas de intervención en situaciones colectivas, analizando el proceso de toma de decisiones y efectuando consultas para liderar las mismas.
-r) Identificar y valorar las oportunidades de aprendizaje y su relación con el mundo laboral, analizando las ofertas y demandas del mercado para gestionar su carrera profesional.
-s) Reconocer las oportunidades de negocio, identificando y analizando demandas del mercado para crear y gestionar una pequeña empresa.
+c) Instalar y configurar software de mensajería y transferencia de ficheros, entre otros, relacionándolos con su aplicación y siguiendo documentación y especificaciones dadas, para administrar servicios de red.  
+d) Instalar y configurar software de gestión, siguiendo especificaciones y analizando entornos de aplicación, para administrar aplicaciones.  
+e) Instalar y administrar software de gestión, relacionándolo con su explotación, para implantar y gestionar bases de datos.  
+f) Configurar dispositivos hardware, analizando sus características funcionales, para optimizar el rendimiento del sistema.  
+g) Configurar hardware de red, analizando sus características funcionales y relacionándolo con su campo de aplicación, para integrar equipos de comunicaciones.  
+h) Analizar tecnologías de interconexión, describiendo sus características y posibilidades de aplicación, para configurar la estructura de la red telemática y evaluar su rendimiento.  
+i) Elaborar esquemas de redes telemáticas utilizando software específico para configurar la estructura de la red telemática.  
+j) Seleccionar sistemas de protección y recuperación, analizando sus características funcionales, para poner en marcha soluciones de alta disponibilidad.  
+k) Identificar condiciones de equipos e instalaciones, interpretando planes de seguridad y especificaciones de fabricante, para supervisar la seguridad física.  
+l) Aplicar técnicas de protección contra amenazas externas, tipificándolas y evaluándolas para asegurar el sistema.  
+m) Aplicar técnicas de protección contra pérdidas de información, analizando planes de seguridad y necesidades de uso para asegurar los datos.  
+n) Asignar los accesos y recursos del sistema, aplicando las especificaciones de la explotación, para administrar usuarios.  
+ñ) Aplicar técnicas de monitorización interpretando los resultados y relacionándolos con las medidas correctoras para diagnosticar y corregir las disfunciones.  
+o) Establecer la planificación de tareas, analizando actividades y cargas de trabajo del sistema para gestionar el mantenimiento.  
+p) Identificar los cambios tecnológicos, organizativos, económicos y laborales en su actividad, analizando sus implicaciones en el ámbito de trabajo, para resolver problemas y mantener una cultura de actualización e innovación.  
+q) Identificar formas de intervención en situaciones colectivas, analizando el proceso de toma de decisiones y efectuando consultas para liderar las mismas.  
+r) Identificar y valorar las oportunidades de aprendizaje y su relación con el mundo laboral, analizando las ofertas y demandas del mercado para gestionar su carrera profesional.  
+s) Reconocer las oportunidades de negocio, identificando y analizando demandas del mercado para crear y gestionar una pequeña empresa.  
 t) Reconocer sus derechos y deberes como agente activo en la sociedad, analizando el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
 
-## Objetivos generales del módulo
-Este módulo profesional es de caracter integrador y sus objetivos generales obedecen a los objetivos generales del ciclo formativo.
+## Contribución del módulo a la consecución de las competencias y los objetivos generales del ciclo
 
-## Objetivos específicos del módulo  
-El módulo profesional de **Proyecto de administración de sistemas informáticos en red (PI)** complementa la formación establecida para el resto de los módulos profesionales que integran el título, desarrollando las funciones de análisis del contexto, diseño del proyecto y organización de la ejecución. En concreto, los objetivos específicos son:
+El módulo profesional **Proyecto de Administración de Sistemas Informáticos en Red (PI)** constituye el eje integrador del segundo curso del ciclo formativo de **Administración de Sistemas Informáticos en Red (ASIR)**. Su finalidad es permitir que el alumnado aplique, de manera global y coordinada, los conocimientos, destrezas y actitudes adquiridas en el resto de módulos, mediante el desarrollo de un **proyecto técnico completo**, desde su concepción hasta su evaluación final. 
 
-a) Analizar el contexto y las necesidades del entorno tecnológico, organizativo y productivo en el que se va a desarrollar el proyecto.  
-b) Identificar y priorizar las necesidades a las que el proyecto puede dar respuesta, considerando los factores que facilitan o dificultan su desarrollo.  
-c) Definir y estructurar la intervención técnica del proyecto, estableciendo su alcance, fases, recursos y objetivos.  
-d) Planificar las acciones que conforman el proyecto, determinando la secuencia, los procedimientos de trabajo y los recursos humanos, materiales y tecnológicos necesarios.  
-e) Elaborar la documentación técnica asociada al diseño, ejecución y evaluación del proyecto, aplicando criterios de calidad profesional.  
-f) Gestionar la ejecución del proyecto, coordinando actividades, recursos y tiempos, y supervisando su correcta realización.  
-g) Evaluar el desarrollo del proyecto mediante indicadores de calidad, control de incidencias y procedimientos de seguimiento.  
-h) Elaborar informes y documentación final que reflejen los resultados obtenidos y las conclusiones técnicas alcanzadas.  
-i) Desarrollar actitudes de autonomía, iniciativa, responsabilidad y autoevaluación, aplicando metodologías profesionales en el trabajo individual y en equipo.  
-j) Utilizar de forma eficaz las Tecnologías de la Información y la Comunicación en las fases de diseño, gestión, documentación y presentación del proyecto.
+La formación del módulo se relaciona con todos los objetivos generales del ciclo y las competencias profesionales, personales y sociales del título.
 
-# Contenidos
+# Resultados de aprendizaje y criterios de evaluación
 
-## Distribución de contenidos y secuenciación temporal  
+Los resultados de aprendizaje del módulo profesional definen qué debe saber, saber hacer y saber ser el alumnado al finalizar la formación. Estas formulaciones, vinculadas a una evaluación eficaz, permiten traducir los objetivos en conductas observables y medibles, facilitando la conexión entre la actividad docente, la metodología, las tareas de aprendizaje y los criterios de evaluación. De esta forma, se garantiza que el proceso formativo esté orientado hacia el desarrollo competencial del alumnado, al tiempo que proporciona transparencia en los estándares de logro y contribuye a la calidad educativa.  
 
-El módulo profesional de **Proyecto de administración de sistemas informáticos en red (PI)** tiene una duración total de **70 horas**, con una carga de **2 horas semanales** a lo largo de **35 semanas lectivas**, distribuidas en tres trimestres (14 + 11 + 10 semanas).  
-
-El proceso de aprendizaje se articula en un **modelo iterativo de desarrollo de proyectos**, en el que el alumnado aplica de forma progresiva los **cuatro Resultados de Aprendizaje (RA1–RA4)** en todas las fases.  
-Cada etapa del módulo representa un ciclo de mejora continua: el estudiante parte de un proyecto de alcance limitado, lo amplía en complejidad técnica y lo culmina con una planificación, ejecución y evaluación completas.
-
----
-
-### Fase 1. Proyecto piloto y análisis inicial del contexto  
-*(1.º Trimestre – 14 semanas → 28 horas)*  
-
-El alumnado inicia un **proyecto piloto** reducido que le permite comprender el ciclo de vida de un proyecto profesional.  
-Durante esta fase se identifican necesidades, se definen objetivos y se construye una primera versión funcional y documentada del proyecto.
-
-**Aplicación de los Resultados de Aprendizaje:**  
-- **RA1:** Identifica las necesidades del sector y plantea un proyecto inicial que las satisfaga.  
-- **RA2:** Diseña una primera versión del proyecto, estableciendo sus fases y recursos básicos.  
-- **RA3:** Planifica la ejecución de las tareas iniciales y la organización del trabajo.  
-- **RA4:** Define un sistema básico de seguimiento y control sobre el avance del proyecto piloto.  
-
-**Contenidos principales:**  
-- Concepto de proyecto técnico en el ámbito ASIR.  
-- Detección de necesidades y análisis del entorno profesional.  
-- Propuesta inicial y guion de trabajo.  
-- Diseño preliminar y estimación de recursos mínimos.  
-- Ejecución y documentación del primer prototipo o servicio funcional.  
-
----
-
-### Fase 2. Ampliación, rediseño y documentación técnica  
-*(2.º Trimestre – 11 semanas → 22 horas)*  
-
-Partiendo del proyecto piloto, el alumnado amplía su alcance técnico y mejora la calidad documental y organizativa del trabajo.  
-Se introduce la planificación detallada, la gestión de recursos y la documentación profesional.
-
-**Aplicación de los Resultados de Aprendizaje:**  
-- **RA1:** Reevalúa las necesidades del proyecto y su adecuación al contexto real o simulado.  
-- **RA2:** Rediseña el proyecto incorporando viabilidad técnica, fases y objetivos claros.  
-- **RA3:** Desarrolla la planificación temporal, asignación de recursos y presupuestos.  
-- **RA4:** Implanta mecanismos de seguimiento, indicadores de calidad y control de incidencias.  
-
-**Contenidos principales:**  
-- Revisión crítica del proyecto inicial.  
-- Diseño técnico detallado y arquitectura del sistema o servicio.  
-- Gestión de recursos humanos, materiales y tecnológicos.  
-- Elaboración del presupuesto y documentación técnica.  
-- Planificación del desarrollo y control de versiones del proyecto.  
-- Revisión intermedia y defensa técnica ante el profesorado.  
-
----
-
-### Fase 3. Ejecución, seguimiento y evaluación final del proyecto  
-*(3.º Trimestre – 10 semanas → 20 horas)*  
-
-El alumnado finaliza el desarrollo del proyecto aplicando todos los RA de manera integrada.  
-Esta fase se centra en la **ejecución completa, evaluación y presentación profesional del proyecto final**.
-
-**Aplicación de los Resultados de Aprendizaje:**  
-- **RA1:** Consolida la relación entre necesidades detectadas y la solución implementada.  
-- **RA2:** Perfecciona el diseño y documentación técnica final del proyecto.  
-- **RA3:** Ejecuta la intervención planificada, ajustando recursos y tiempos.  
-- **RA4:** Aplica los procedimientos de control, evaluación y mejora del proyecto, elaborando los informes finales.  
-
-**Contenidos principales:**  
-- Ejecución y validación técnica del proyecto.  
-- Control del progreso, evaluación de incidencias y riesgos.  
-- Comprobación de indicadores de calidad y resultados.  
-- Elaboración del informe final y conclusiones.  
-- Presentación, defensa y entrega del proyecto completo.  
-
----
-
-## Resumen de la temporalización por fases y trimestres  
-
-| Fase | Denominación | RA implicados | Trimestre | Horas |
-|------|---------------|---------------|------------|--------|
-| 1 | Proyecto piloto y análisis inicial del contexto | RA1, RA2, RA3, RA4 | 1.º | 28 h |
-| 2 | Ampliación, rediseño y documentación técnica | RA1, RA2, RA3, RA4 | 2.º | 22 h |
-| 3 | Ejecución, seguimiento y evaluación final | RA1, RA2, RA3, RA4 | 3.º | 20 h |
-| **Total** | — | — | — | **70 h** |
-
----
-
-## Número de horas por trimestre  
-
-| Trimestre | Fases incluidas | Horas | % sobre 70 h |
-|------------|----------------|--------|----------------|
-| 1.º | Fase 1 | 28 h | 40 % |
-| 2.º | Fase 2 | 24 h | 34 % |
-| 3.º | Fase 3 | 18 h | 26 % |
-| **Total** | — | **70 h** | **100 %** |
-
----
-
-## Resultados de Aprendizaje y Criterios de Evaluación
-
-**RA1. Identifica necesidades del sector productivo relacionándolas con proyectos tipo que las puedan satisfacer.**  
+**RA1.** Identifica necesidades del sector productivo relacionándolas con proyectos tipo que las puedan satisfacer.  
+**Criterios de evaluación:**  
 a) Se han clasificado las empresas del sector por sus características organizativas y el tipo de producto o servicio que ofrecen.  
 b) Se han caracterizado las empresas tipo indicando la estructura organizativa y las funciones de cada departamento.  
 c) Se han identificado las necesidades más demandadas a las empresas.  
@@ -183,7 +181,8 @@ i) Se ha elaborado el guion de trabajo que se va a seguir para la elaboración d
 
 ---
 
-**RA2. Diseña proyectos relacionados con las competencias expresadas en el título, incluyendo y desarrollando las fases que lo componen.**  
+**RA2.** Diseña proyectos relacionados con las competencias expresadas en el título, incluyendo y desarrollando las fases que lo componen.  
+**Criterios de evaluación:**  
 a) Se ha recopilado información relativa a los aspectos que van a ser tratados en el proyecto.  
 b) Se ha realizado el estudio de viabilidad técnica del mismo.  
 c) Se han identificado las fases o partes que componen el proyecto y su contenido.  
@@ -196,7 +195,8 @@ i) Se han identificado los aspectos que se deben controlar para garantizar la ca
 
 ---
 
-**RA3. Planifica la puesta en funcionamiento o ejecución del proyecto, determinando el plan de intervención y la documentación asociada.**  
+**RA3.** Planifica la puesta en funcionamiento o ejecución del proyecto, determinando el plan de intervención y la documentación asociada.  
+**Criterios de evaluación:**  
 a) Se han secuenciado las actividades ordenándolas en función de las necesidades de implementación.  
 b) Se han determinado los recursos y la logística necesaria para cada actividad.  
 c) Se han identificado las necesidades de permisos y autorizaciones para llevar a cabo las actividades.  
@@ -208,7 +208,8 @@ h) Se ha definido y elaborado la documentación necesaria para la ejecución.
 
 ---
 
-**RA4. Define los procedimientos para el seguimiento y control en la ejecución del proyecto, justificando la selección de variables e instrumentos empleados.**  
+**RA4.** Define los procedimientos para el seguimiento y control en la ejecución del proyecto, justificando la selección de variables e instrumentos empleados.  
+**Criterios de evaluación:**  
 a) Se ha definido el procedimiento de evaluación de las actividades o intervenciones.  
 b) Se han definido los indicadores de calidad para realizar la evaluación.  
 c) Se ha definido el procedimiento para la evaluación de las incidencias que puedan presentarse durante la realización de las actividades, su posible solución y registro.  
@@ -217,78 +218,438 @@ e) Se ha definido y elaborado la documentación necesaria para la evaluación de
 f) Se ha establecido el procedimiento para la participación en la evaluación de los usuarios o clientes y se han elaborado los documentos específicos.  
 g) Se ha establecido un sistema para garantizar el cumplimiento del pliego de condiciones del proyecto cuando este existe.
 
-
-# Metodología
-
-## Principios metodológicos  
-La metodología del módulo de **Proyecto de administración de sistemas informáticos en red (PI)** se fundamenta en el **aprendizaje por proyectos** y en la **autonomía del alumnado** como eje central del proceso educativo.  
-El propósito es que cada estudiante desarrolle un proyecto técnico completo, aplicando de forma práctica los conocimientos y competencias adquiridos a lo largo del ciclo, mediante un proceso iterativo de mejora continua.  
-
-Los principios metodológicos que guían este módulo son:
-
-- **Aprendizaje autónomo y autorregulado:** el alumnado asume la responsabilidad de su propio proceso de aprendizaje, planificando sus tareas, gestionando su tiempo y evaluando su progreso.  
-- **Iteración y mejora continua:** el proyecto evoluciona en fases sucesivas, cada una más exigente, incorporando los cuatro Resultados de Aprendizaje (RA1–RA4) en distintos niveles de profundidad.  
-- **Observación directa y retroalimentación continua:** el docente actúa como guía y supervisor, observando el trabajo individual y grupal y proporcionando retroalimentación personalizada en momentos clave del proceso.  
-- **Reflexión y autoevaluación:** cada fase del proyecto concluye con una revisión reflexiva, en la que el alumnado identifica sus logros, errores y áreas de mejora.  
-- **Transferencia de aprendizaje:** los conocimientos adquiridos en otros módulos se integran y aplican de manera transversal en un contexto práctico y realista.  
-- **Colaboración profesional:** aunque el proyecto es individual, se fomenta la cooperación y el intercambio de experiencias entre compañeros, simulando entornos de trabajo reales.  
-
-Esta metodología responde a los objetivos del Proyecto Educativo del Centro, promoviendo la **autonomía, la responsabilidad, la creatividad, la competencia digital avanzada y la orientación profesional** del alumnado.
-
 ---
 
-## Estrategias y técnicas de enseñanza-aprendizaje  
 
-Las estrategias empleadas en el módulo están orientadas a facilitar un aprendizaje activo, reflexivo y contextualizado. Entre ellas destacan:
+# Contenidos básicos
+Los contenidos de un módulo profesional constituyen el conjunto de conocimientos, habilidades, destrezas y actitudes que, conforme a la normativa, contribuyen al logro de los objetivos de cada enseñanza y etapa educativa y a la adquisición de competencias. En el contexto de este módulo, dichos contenidos actúan como el cauce que une los resultados de aprendizaje con las etapas de enseñanza-aprendizaje, permitiendo que el alumnado no solo adquiera saberes, sino que sea capaz de *saber hacer* y *saber ser*. La jerarquización, adecuación al contexto y secuenciación de estos contenidos garantizan una progresión lógica, un aprendizaje significativo y una evaluación coherente.
 
-- **Desarrollo iterativo del proyecto:** el alumnado trabaja en un proyecto real o simulado que evoluciona en tres fases, ampliando progresivamente su alcance técnico y documental.  
-- **Tutorías personalizadas:** se establecen reuniones periódicas individuales o grupales con el docente para revisar el progreso, analizar dificultades y definir nuevas metas.  
-- **Retroalimentación formativa:** tras la observación directa, el docente ofrece orientación inmediata, tanto en formato individual como en sesiones colectivas de revisión y debate técnico.  
-- **Revisión entre iguales:** el alumnado evalúa presentaciones o entregas intermedias de sus compañeros, desarrollando habilidades de análisis crítico y comunicación profesional.  
-- **Estudio de casos y benchmarking:** análisis de ejemplos de proyectos reales o de buenas prácticas en entornos empresariales del sector TIC.  
-- **Exposición y defensa del proyecto:** el alumnado presenta sus avances en distintos momentos del curso, justificando las decisiones técnicas adoptadas.  
+- **Análisis del contexto:**
+  - Recopilación de información del entorno profesional y tecnológico.  
+  - Identificación y priorización de necesidades del sector o de la organización.  
+  - Identificación de los aspectos que facilitan o dificultan el desarrollo de la posible intervención.  
+  - Valoración de la viabilidad y pertinencia de la propuesta de proyecto.  
+  - Elaboración de un diagnóstico inicial como base del trabajo de planificación.
 
-El rol del profesorado se centra en **acompañar y orientar** el proceso, más que en dirigirlo. El alumnado es el protagonista del aprendizaje, con capacidad para tomar decisiones técnicas y organizativas dentro de los límites establecidos.
+- **Diseño del proyecto:**
+  - Definición o adaptación de la intervención en función de las necesidades detectadas.  
+  - Priorización y secuenciación de las acciones a realizar.  
+  - Planificación de la intervención y establecimiento de objetivos, hitos y resultados esperados.  
+  - Determinación y asignación de recursos materiales, humanos y tecnológicos.  
+  - Planificación de la evaluación, estableciendo indicadores de calidad y control.  
+  - Diseño y elaboración de la documentación técnica del proyecto.  
+  - Elaboración del plan de atención al cliente y de comunicación del proyecto.
 
----
+- **Organización y ejecución:**
+  - Detección y actualización de demandas y necesidades durante el desarrollo del proyecto.  
+  - Programación detallada de las actividades y secuencia de trabajo.  
+  - Gestión y asignación de recursos, tiempos y tareas.  
+  - Coordinación y supervisión de la intervención, garantizando la calidad del proceso.  
+  - Elaboración de informes parciales y finales que recojan avances, incidencias y resultados.  
 
-## Actividades del proceso de enseñanza-aprendizaje  
+- **Ámbitos profesionales de aplicación:**
+  - Áreas de sistemas y departamentos de informática en cualquier sector de actividad.  
+  - Sector de servicios tecnológicos y de comunicaciones.  
+  - Área comercial con gestión de transacciones y servicios por Internet. 
 
-- **Actividades iniciales:**  
-  - Presentación del módulo, objetivos y metodología de trabajo por proyectos.  
-  - Análisis de proyectos tipo y reflexión sobre el papel del técnico superior en entornos profesionales.  
-  - Definición del proyecto piloto individual y elaboración del guion de trabajo inicial.  
+Estos contenidos básicos orientan el desarrollo de las actividades de enseñanza-aprendizaje del módulo, permitiendo que el alumnado consolide una visión global del ciclo, integre las competencias adquiridas y demuestre su capacidad para planificar, ejecutar, documentar y evaluar proyectos tecnológicos en el ámbito de la administración de sistemas informáticos en red.
 
-- **Actividades de desarrollo:**  
-  - Elaboración iterativa del proyecto en tres fases (piloto, rediseño, proyecto final).  
-  - Revisión de entregas parciales y discusión técnica con el docente.  
-  - Aplicación de herramientas TIC para planificación, control de versiones y documentación profesional.  
-  - Participación en sesiones de retroalimentación grupal e individual.  
-  - Elaboración de documentación técnica, memoria y presentación final.  
+# Secuenciación y temporalización
 
-- **Actividades de refuerzo y ampliación:**  
-  - Revisión o ampliación de fases anteriores en función de la observación docente.  
-  - Actividades opcionales de perfeccionamiento técnico o documental.  
-  - Tutorías individualizadas para abordar necesidades específicas detectadas.  
+<!--
+> **Marco horario y restricciones 2025/2026**  
+> - 1.º trimestre: **14 semanas** → **28 h** (presencial).  
+> - 2.º trimestre: **11 semanas** → **22 h** (presencial).  
+> - 3.º trimestre: **7 semanas** → **14 h**, (presencial).  
+> - **Total módulo:** **70 h**.
+-->
 
-- **Actividades de evaluación:**  
-  - Observación directa del proceso de trabajo y de la calidad de las entregas parciales.  
-  - Valoración del grado de autonomía, iniciativa y autoevaluación del alumnado.  
-  - Evaluación del proyecto final mediante presentación y defensa técnica.
+El módulo profesional **Proyecto de Administración de Sistemas Informáticos en Red (0379)** tiene una duración total de **70 horas**, distribuidas en **2 horas semanales** a lo largo de las **35 semanas** del curso académico 2025/2026. Su desarrollo se plantea mediante un **método iterativo de trabajo por fases**, en el que el alumnado aplica de manera autónoma los conocimientos y competencias adquiridos en el ciclo, bajo la orientación y tutorización del profesorado.
 
----
+Se aplicará una **metodología iterativa**, que permite que el proyecto se desarrolle de manera **progresiva y cíclica**, favoreciendo la mejora continua del producto final. Cada fase culmina con una **entrega parcial evaluable** en la que el alumnado debe presentar los avances técnicos y documentales alcanzados. Estas entregas permiten al docente **analizar el progreso, proporcionar retroalimentación y reorientar el trabajo**, garantizando que el resultado final cumpla los estándares de calidad técnica y metodológica.
 
-## Tratamiento de los contenidos transversales  
 
-Durante el desarrollo del módulo se incorporan de forma transversal los siguientes contenidos:
+### Primera iteración: hasta el 5 de diciembre de 2025
+- **Avances técnicos:** corresponden a un **primer prototipo funcional**, en el que pueda observarse al menos una de las funcionalidades básicas previstas del sistema o servicio que se pretende desarrollar. Este primer avance debe reflejar la comprensión global del proyecto y sentar las bases técnicas sobre las que se construirán las siguientes fases.
 
-- **Sostenibilidad y responsabilidad social:** integración de criterios de eficiencia energética, reciclaje tecnológico y buenas prácticas ambientales en los proyectos.  
-- **Prevención de riesgos laborales:** planificación segura de las fases del proyecto, identificando riesgos técnicos y adoptando medidas preventivas.  
-- **Igualdad de género y respeto a la diversidad:** promoción de la igualdad de oportunidades en la planificación y ejecución del trabajo técnico, visibilizando referentes femeninos en el ámbito TIC.  
-- **Competencia digital avanzada:** utilización de herramientas colaborativas, control de versiones, documentación técnica y presentación profesional.  
-- **Comunicación y trabajo en equipo:** desarrollo de habilidades de interlocución técnica, argumentación y defensa de decisiones ante el grupo y el profesorado.  
-- **Aprendizaje a lo largo de la vida:** fomento de la curiosidad, la actualización y la autonomía en la adquisición de nuevos conocimientos.  
+- **Avances documentales:** corresponden a la fase de **análisis y planteamiento inicial del proyecto**. El alumnado identificará las necesidades del entorno o del caso de estudio, realizará un diagnóstico de la situación actual y definirá los objetivos generales y específicos del proyecto. Se elaborará un guion de trabajo que sirva de hoja de ruta para las iteraciones posteriores y se presentará la **primera entrega parcial**, que incluirá:
+  - Propuesta inicial del proyecto.  
+  - Estudio de viabilidad técnica y económica.  
+  - Justificación técnica preliminar y delimitación del alcance.  
 
----
+Se valorará especialmente el progreso en el **RA1 (análisis del contexto y detección de necesidades)**, así como la coherencia entre los objetivos planteados y las posibles soluciones propuestas.
 
-La metodología del módulo **PI** se orienta así a reproducir las condiciones reales de un entorno profesional, favoreciendo que el alumnado desarrolle una actitud proactiva, reflexiva y crítica ante su propio proceso de aprendizaje y sea capaz de **identificar sus propias necesidades formativas y técnicas** a lo largo del proyecto.
+
+### Segunda iteración: hasta el 30 de enero de 2026
+- **Avances técnicos:** se espera una **evolución significativa del prototipo**, incorporando la arquitectura definida y varios de los componentes o servicios principales del sistema. Debe apreciarse la consolidación del diseño y la integración parcial de funcionalidades.
+
+- **Avances documentales:** esta fase se centra en el **diseño técnico y planificación del proyecto**. El alumnado deberá definir la arquitectura del sistema, los recursos necesarios, la secuenciación de tareas y los mecanismos de control de calidad. La **segunda entrega parcial** incluirá:
+  - Planificación detallada de las tareas y cronograma del proyecto.  
+  - Diseño técnico y diagramas de red, flujo o dependencias.  
+  - Descripción de recursos materiales, humanos y tecnológicos.  
+  - Plan de calidad y control de riesgos.  
+
+Se valorará el progreso en el **RA2 (diseño y planificación del proyecto)**, prestando especial atención a la viabilidad y coherencia técnica del diseño presentado.
+
+### Tercera iteración: hasta el 27 de marzo de 2026
+- **Avances técnicos:** deben demostrarse **funcionalidades operativas completas o parciales del sistema**, evidenciando la correcta implementación de los servicios principales. Se espera que el proyecto haya alcanzado un estado cercano al despliegue real o simulado, con pruebas de funcionamiento y primeras tareas de validación.
+
+- **Avances documentales:** se abordará la **organización y ejecución parcial del proyecto**, documentando los procedimientos realizados, las incidencias detectadas y las acciones correctivas adoptadas. La **tercera entrega parcial** incluirá:
+  - Informe técnico de ejecución y estado de desarrollo.  
+  - Resultados de pruebas y validación de componentes.  
+  - Registro de incidencias y medidas de corrección.  
+  - Actualización del cronograma y control de avances.  
+
+Se valorará especialmente el **RA3 (organización y ejecución del proyecto)**, evaluando la capacidad del alumnado para aplicar soluciones técnicas reales y gestionar los imprevistos de forma eficaz.
+
+
+### Cuarta iteración: hasta el 15 de mayo de 2026
+- **Avances técnicos:** el alumnado deberá presentar la **versión final del proyecto plenamente operativa**, en la que todas las funcionalidades estén integradas y documentadas. La solución deberá ser estable, reproducible y ajustada a los objetivos iniciales.
+
+- **Avances documentales:** esta fase está dedicada a la **finalización, evaluación y documentación del proyecto**. La **cuarta entrega parcial** incluirá:
+  - Memoria técnica completa del proyecto.  
+  - Anexos, manuales de usuario y documentación de mantenimiento.  
+  - Evaluación de resultados, conclusiones y propuestas de mejora.  
+  - Plan de continuidad o ampliación futura.  
+
+Se valorará el progreso en el **RA4 (evaluación, documentación y control del proyecto)**, garantizando la calidad técnica, la presentación formal y la coherencia global del trabajo.
+
+
+### Entrega final y defensa ante tribunal: última semana de mayo de 2026
+Tras la entrega final, el alumnado deberá realizar la **defensa del proyecto ante un tribunal docente**, presentando de manera profesional la solución técnica desarrollada. La exposición incluirá una demostración funcional, la justificación de las decisiones tomadas, el análisis de resultados y las conclusiones finales.
+
+Durante la defensa se valorarán:
+- La **capacidad de comunicación y argumentación técnica**.  
+- La **claridad y estructura** de la exposición.  
+- La **profundidad en el conocimiento del proyecto** y su viabilidad.  
+- La **actitud profesional y dominio del lenguaje técnico**.  
+- La **correción técnica** de la solución presentada.
+
+Esta defensa servirá como cierre del proceso formativo y como evidencia final de la **integración de las competencias adquiridas** en el ciclo, constituyendo la base para la evaluación final del módulo.
+
+### Enfoque metodológico
+
+El papel del **profesorado** es principalmente de acompañamiento, tutorización y evaluación continua, asegurando que el proyecto mantenga coherencia técnica y viabilidad. El **alumnado** asume el papel protagonista, planificando, ejecutando y documentando su proyecto de forma autónoma, aplicando los conocimientos adquiridos en el ciclo formativo.
+
+Durante el desarrollo del módulo se alternarán:
+- **Sesiones introductorias** sobre cada resultado de aprendizaje (RA1–RA4), centradas en metodología y planificación.  
+- **Trabajo autónomo individual** del alumnado, aplicando las orientaciones a su propio proyecto.  
+- **Tutorías individuales y grupales** para el seguimiento y la retroalimentación del progreso.  
+- **Entregas parciales de proyecto**, donde el docente analizará los avances, aportará recomendaciones y reencaminará el trabajo si es necesario.  
+- **Autoevaluación y coevaluación**, para fomentar la reflexión crítica sobre el proceso y el resultado.
+
+Este sistema de trabajo iterativo y tutorizado promueve un aprendizaje activo, autónomo y realista, centrado en la mejora continua del proyecto. El alumnado adquiere así las competencias necesarias para **planificar, ejecutar, documentar y defender un proyecto técnico completo**, reproduciendo las dinámicas de trabajo propias de un entorno profesional de **administración de sistemas informáticos en red**.
+
+
+# Evaluación
+
+De acuerdo con lo establecido en el **artículo 96.3 del Real Decreto 659/2023, de 18 de julio**, y en la **Orden de 18 de septiembre de 2025**, el **proyecto intermodular** tiene carácter **integrador de las competencias adquiridas** y constituye un único proyecto durante todo el ciclo formativo. Su desarrollo se realiza de manera **simultánea al resto de los módulos profesionales**, bajo un proceso continuo de **seguimiento y tutorización individual y colectiva**.
+
+El módulo de **Proyecto de Administración de Sistemas Informáticos en Red (0379)** se concibe como un espacio de aplicación práctica en el que el alumnado debe demostrar la adquisición global de las competencias profesionales, personales y sociales del título, integrando los conocimientos técnicos, metodológicos y organizativos adquiridos a lo largo del ciclo.
+
+### Criterios generales de evaluación
+
+1. **Carácter integrador y competencial:**  
+   La evaluación valorará la capacidad del alumnado para integrar los conocimientos de los distintos módulos del ciclo, transformándolos en un proyecto técnico coherente, funcional y documentado.
+
+2. **Evaluación individual:**  
+   Cada alumno será evaluado de manera **individual**, correspondiendo dicha evaluación al **profesorado responsable de la tutorización** del módulo, quien valorará tanto el proceso como el producto final.
+
+3. **Seguimiento continuo:**  
+   La evaluación será **continua y formativa**, basada en la observación del trabajo desarrollado durante las diferentes iteraciones del proyecto. Se valorará la constancia, la capacidad de planificación, la resolución de problemas y la autonomía en la toma de decisiones.
+
+4. **Defensa ante tribunal docente:**  
+   En cumplimiento de lo dispuesto en la normativa, el alumnado deberá **defender su proyecto ante una representación del equipo docente**, en la forma que disponga el proyecto educativo del centro. La exposición incluirá una presentación oral y técnica del trabajo, integrando tanto los aspectos funcionales como documentales.
+
+5. **Instrumentos de evaluación:**  
+   La valoración del módulo se basará en:
+   - Entregas parciales de cada iteración (análisis, diseño, ejecución y documentación).  
+   - Observación directa y tutorías de seguimiento.  
+   - Memoria técnica final y documentación complementaria.  
+   - Exposición y defensa pública ante el tribunal.  
+   - Autoevaluación y reflexión personal sobre el proceso.
+
+6. **Resultados de aprendizaje (RA) como referencia:**  
+   La evaluación se realizará tomando como base los cuatro resultados de aprendizaje del módulo:
+   - **RA1.** Análisis del contexto y detección de necesidades.  
+   - **RA2.** Diseño y planificación del proyecto.  
+   - **RA3.** Organización y ejecución de la intervención.  
+   - **RA4.** Evaluación, documentación y control del proyecto.
+
+### Criterios de calificación
+
+La **calificación final del módulo** se obtendrá mediante la ponderación de dos bloques de evaluación:
+
+  **a) Valoración del tutor o tutora del proyecto (60 %):**  
+  Corresponde al seguimiento continuo del trabajo realizado por el alumnado durante todo el proceso.  
+  Este porcentaje se distribuirá de forma equilibrada entre los cuatro resultados de aprendizaje (RA), a razón de un **15 % por cada RA**, valorando:  
+  - La planificación, organización y cumplimiento de los objetivos establecidos.  
+  - La calidad técnica y la viabilidad del proyecto.  
+  - La autonomía, responsabilidad y capacidad de resolución de problemas.  
+  - La correcta documentación y justificación del trabajo realizado.  
+
+  **b) Valoración del tribunal docente (40 %):**  
+  Corresponde a la **defensa final del proyecto** ante una representación del equipo docente.  
+  Se valorará la calidad global del proyecto, la claridad y precisión de la exposición oral, la justificación técnica de las decisiones adoptadas, el rigor en la documentación presentada y la actitud profesional mostrada durante la presentación.  
+  Esta valoración se integrará como un único bloque equivalente al 40 % de la nota final del módulo.
+
+Para superar el módulo será necesario obtener una **calificación mínima de 5,0 puntos sobre 10** tanto en la media ponderada final como en la valoración del tutor y del tribunal.  
+
+En caso de no superar el módulo, el alumnado deberá **presentar una versión revisada del proyecto** y una nueva defensa en la convocatoria de recuperación, manteniendo la misma estructura y ponderación de los criterios de calificación.
+
+### Calificación final y periodo de recuperación
+
+La **calificación final del módulo** se obtendrá tras la defensa del proyecto ante el tribunal docente, integrando las dos valoraciones principales:  
+- **60 % correspondiente al tutor o tutora del proyecto**, basado en el seguimiento del proceso, el cumplimiento de los objetivos y la calidad técnica del trabajo.  
+- **40 % correspondiente al tribunal docente**, obtenido en la presentación y defensa pública del proyecto.  
+
+Para superar el módulo será necesario alcanzar una **calificación mínima de 5,0 puntos sobre 10** en la media ponderada y obtener al menos un **5,0 en ambas valoraciones** (tutor y tribunal).  
+
+La calificación final del módulo se consignará en la **primera sesión de evaluación final**, conforme al calendario académico del centro.  
+
+En caso de no superar el módulo, el alumnado dispondrá de un **periodo de recuperación** comprendido entre la **primera y la segunda sesión de evaluación final**, durante el cual deberá atender las orientaciones del profesorado tutor y subsanar las deficiencias observadas.
+
+### Medidas de recuperación y mejora de resultados
+
+El alumnado que no alcance la calificación positiva en alguno de los resultados de aprendizaje deberá realizar **actividades de refuerzo y recuperación**, centradas exclusivamente en los **criterios de evaluación no superados**. Estas actividades se desarrollarán entre la **primera sesión de evaluación final** y la **segunda sesión de evaluación final**, utilizando los mismos instrumentos de evaluación aplicados durante el periodo lectivo regular.
+
+En el caso de que el alumno o alumna **no supere la valoración del tribunal**, deberá **subsanar los errores indicados y realizar una nueva defensa del proyecto** dentro del mismo periodo, entre la primera y la segunda sesión de evaluación final.  
+La nueva defensa se evaluará de acuerdo con los mismos criterios y ponderaciones que la inicial.
+
+Estas medidas de recuperación tienen como finalidad garantizar que el alumnado disponga de una **segunda oportunidad de mejora**, asegurando la consecución de los resultados de aprendizaje y la adquisición de las competencias profesionales, personales y sociales del título.
+
+### Enfoque de evaluación
+
+La evaluación en este módulo busca reflejar no solo el nivel de conocimientos técnicos, sino también la **madurez profesional, la capacidad de comunicación, el pensamiento crítico y la actitud ética y colaborativa** del alumnado.  
+De esta manera, se garantiza que el proceso de evaluación sea **coherente, objetivo y orientado al desarrollo competencial**, en consonancia con la normativa vigente y los principios del aprendizaje basado en proyectos.
+
+# Evaluación del proceso de enseñanza-aprendizaje
+
+La evaluación del proceso de enseñanza-aprendizaje tiene como finalidad analizar la **eficacia y adecuación de la práctica docente** y de la programación del módulo, con el propósito de mejorar la calidad del proceso educativo y garantizar la coherencia entre los objetivos propuestos y los resultados obtenidos.  
+No se trata únicamente de evaluar al alumnado, sino de **valorar la planificación, la metodología, los recursos y la acción docente** en su conjunto.
+
+Para ello, se realizará un seguimiento sistemático a lo largo del curso, valorando los siguientes aspectos:
+
+- **Adecuación de los contenidos y actividades** a los resultados de aprendizaje y a las características del grupo.  
+- **Pertinencia de los recursos didácticos** y de los medios tecnológicos empleados.  
+- **Eficacia de las estrategias metodológicas** aplicadas para fomentar la motivación, la participación y el aprendizaje significativo.  
+- **Idoneidad de la temporalización** y distribución de las unidades didácticas.  
+- **Nivel de coordinación** con el resto del profesorado del ciclo y la tutoría dual.  
+- **Comunicación y atención individualizada** al alumnado, así como la gestión del aula y el clima de trabajo.
+
+La evaluación de la práctica docente se realizará mediante distintos **instrumentos de recogida de información**, entre los que se incluyen:
+
+- **Encuestas de satisfacción del alumnado**, valorando la utilidad percibida de los contenidos, actividades y recursos.  
+- **Cuestionarios de autoevaluación docente**, cumplimentados trimestralmente por el profesorado del módulo.  
+- **Análisis de resultados académicos y de cumplimiento de la programación**, realizados en las reuniones de departamento.  
+- **Memoria final del módulo**, donde se recogerán los puntos fuertes, las dificultades detectadas y las propuestas de mejora para el siguiente curso.
+
+Las conclusiones derivadas de esta evaluación serán debatidas en el **Departamento de Informática** y recogidas en la **memoria final de curso**, sirviendo de base para la **revisión y actualización de la programación didáctica** del módulo profesional en cursos posteriores.
+
+
+# Atención a la diversidad
+
+El carácter abierto y flexible del currículo tiene por objeto atender a la **diversidad del alumnado**, posibilitando adaptaciones que respondan a las diferentes capacidades, ritmos y estilos de aprendizaje, así como a las circunstancias personales o sociales que puedan influir en el proceso educativo.  
+
+De acuerdo con lo establecido en el **artículo 8 de la Orden de 18 de septiembre de 2025**, por la que se regula la evaluación, certificación, acreditación y titulación académica del alumnado de los grados D y E del Sistema de Formación Profesional en la Comunidad Autónoma de Andalucía, la evaluación debe **respetar las necesidades de adaptación metodológica, de tiempos y de recursos** de las personas con necesidades específicas de apoyo educativo o formativo, sin que dichas adaptaciones puedan suponer una minoración de las calificaciones obtenidas.
+
+## Principios generales
+
+Se entenderá por **personas con necesidades específicas de apoyo educativo o formativo** aquellas que, con independencia de su origen personal, social o cultural, requieran una atención distinta a la ordinaria durante su formación para alcanzar las competencias profesionales y para la empleabilidad previstas en los grados D y E.  
+
+El módulo profesional aplicará los principios de **inclusión, equidad y accesibilidad universal**, garantizando que todo el alumnado disponga de las mismas oportunidades para alcanzar los resultados de aprendizaje establecidos en el currículo oficial.
+
+## Medidas de atención a la diversidad
+
+El profesorado adaptará su programación y metodología a las características del alumnado, considerando las siguientes medidas:
+
+- **Adaptaciones metodológicas y de acceso al currículo**, incluyendo apoyos visuales, materiales accesibles, lenguaje claro y estrategias de aprendizaje cooperativo.  
+- **Ampliación del tiempo de realización de pruebas y actividades**, cuando se requiera, para garantizar la equidad en la evaluación.  
+- **Diseño universal para el aprendizaje (DUA)**, con recursos digitales y formatos alternativos que faciliten la participación de todo el alumnado.  
+- **Seguimiento individualizado** del progreso académico mediante tutorías personalizadas y comunicación directa con las familias o tutores legales.  
+- **Colaboración con el Departamento de Orientación y con la tutoría dual docente**, para ajustar las medidas de apoyo durante la fase de formación en empresa u organismo equiparado.  
+- **Eliminación de barreras físicas, cognitivas y tecnológicas** que puedan dificultar la participación plena del alumnado.  
+
+Estas medidas nunca implicarán la eliminación o modificación de los resultados de aprendizaje ni de los criterios de evaluación establecidos en el currículo del título.
+
+## Refuerzos y ampliaciones
+
+Con el fin de atender la diversidad del grupo, se aplicarán distintas estrategias de refuerzo y ampliación:
+
+- **Refuerzos individuales o en pequeño grupo**, destinados a recuperar aprendizajes esenciales o consolidar competencias básicas.  
+- **Actividades de ampliación y profundización**, dirigidas al alumnado que muestra mayor ritmo de aprendizaje o interés por contenidos avanzados.  
+- **Apoyo en la planificación de tareas prácticas**, para reforzar la autonomía en entornos de simulación o virtualización de servicios.  
+- **Fomento de la tutoría entre iguales**, como medida inclusiva y de desarrollo colaborativo de las competencias.  
+
+## Atención al alumnado con necesidades específicas en la fase de formación en empresa
+
+Durante la **fase de formación en empresa u organismo equiparado**, se aplicarán las medidas necesarias para garantizar la **participación efectiva e inclusiva** del alumnado con discapacidad o necesidades específicas de apoyo educativo.  
+
+De acuerdo con el **artículo 15 de la Orden de 26 de septiembre de 2025**, se proporcionarán los **recursos personales y materiales** que resulten necesarios para asegurar su desempeño en condiciones de equidad.  
+El equipo docente, junto con el **Departamento de Orientación** y la **tutoría dual**, planificará las medidas de apoyo, seguimiento y evaluación, coordinándose con la empresa para facilitar la adaptación del puesto formativo.
+
+## Finalidad de las medidas de atención a la diversidad
+
+Las medidas de atención a la diversidad en el módulo profesional tienen como finalidades principales:
+
+- Prevenir la aparición o consolidación de dificultades de aprendizaje.  
+- Facilitar la integración social, la autonomía y la participación del alumnado.  
+- Asegurar la coherencia, progresión y continuidad del proceso educativo.  
+- Fomentar actitudes de respeto, cooperación y tolerancia hacia las diferencias individuales.  
+- Favorecer la igualdad de oportunidades y la empleabilidad futura de todo el alumnado.
+
+Estas actuaciones garantizan que el proceso de enseñanza-aprendizaje del módulo **Servicios de Red e Internet** sea inclusivo, equitativo y orientado a la **excelencia profesional de todos los estudiantes**, conforme a la normativa vigente en materia de atención a la diversidad en la Formación Profesional andaluza.
+
+# Contenidos de carácter transversal
+
+De acuerdo con lo dispuesto en el **artículo 39 de la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)**, el currículo y, en particular, las actividades de enseñanza-aprendizaje deben integrar de forma efectiva una serie de **contenidos y valores de carácter transversal**, que contribuyen al desarrollo integral del alumnado y a la formación de ciudadanos responsables, críticos y comprometidos con la sociedad actual.  
+
+Estos contenidos no constituyen un bloque independiente, sino que deben estar **presente de forma integrada y contextualizada** en todas las unidades didácticas, actividades y proyectos del módulo profesional.
+
+## Temas transversales a incorporar en el módulo
+
+Los contenidos transversales que deben abordarse en el desarrollo del módulo son los siguientes:
+
+- **Respeto a los Derechos Humanos** y a las libertades fundamentales.  
+- **Respeto a los valores democráticos**, a la Constitución Española y al **Estatuto de Autonomía para Andalucía**.  
+- **Igualdad efectiva entre mujeres y hombres**, fomentando la eliminación de estereotipos de género en los entornos tecnológicos y profesionales.  
+- **Educación para la paz, la tolerancia y la convivencia** en contextos diversos.  
+- **Adquisición de hábitos de vida saludable**, incluyendo el bienestar físico, emocional y digital.  
+- **Educación para el consumo responsable**, el ahorro energético y la sostenibilidad.  
+- **Prevención de riesgos laborales y salud laboral**, especialmente en el uso de equipos informáticos, electricidad y trabajo en red.  
+- **Seguridad y protección de datos personales**, fomentando el cumplimiento de la normativa vigente en materia de privacidad y ciberseguridad.  
+- **Educación medioambiental**, uso eficiente de los recursos y gestión sostenible de los residuos tecnológicos.  
+- **Respeto a la interculturalidad y la diversidad**, promoviendo la inclusión y la cooperación en equipos heterogéneos.  
+- **Educación vial** y comportamientos responsables en los desplazamientos a centros de trabajo o formación.  
+- **Uso ético, seguro y responsable de las tecnologías de la información y la comunicación (TIC)**, con especial atención a la huella digital, la propiedad intelectual y la netiqueta profesional.
+
+## Integración de los contenidos transversales en el módulo
+
+En el desarrollo del módulo profesional, estos valores se integrarán de forma natural en las **actividades prácticas y proyectos técnicos**, garantizando que el alumnado:
+
+- Aplique **principios éticos y de responsabilidad social** en la administración de servicios de red e Internet.  
+- Respete la **igualdad de oportunidades** y la **no discriminación** en entornos colaborativos y de aprendizaje.  
+- Fomente el **trabajo en equipo, la cooperación y la comunicación efectiva**.  
+- Desarrolle **hábitos de seguridad, salud y prevención de riesgos** durante las prácticas en laboratorio y empresa.  
+- Tome conciencia de la **importancia del ahorro energético y la sostenibilidad** en la gestión de infraestructuras informáticas.  
+- Valore la **diversidad cultural y social** de los entornos laborales actuales, respetando las diferencias personales y profesionales.  
+
+## Carácter integrador de los temas transversales
+
+El tratamiento de los contenidos transversales no constituye un programa paralelo al currículo del módulo, sino que debe impregnar todas las actividades, metodologías y estrategias de aprendizaje.  
+Se abordarán de manera **interdisciplinar y práctica**, a través de situaciones de aprendizaje contextualizadas (instalación de servicios, resolución de incidencias, gestión de usuarios o configuración de políticas de seguridad), promoviendo en todo momento la **formación técnica y humana del alumnado**.
+
+Estas actuaciones permiten consolidar en el alumnado del ciclo ASIR una **visión profesional ética, responsable y sostenible**, coherente con los valores democráticos y con los objetivos de la Formación Profesional en Andalucía.
+
+# 16. Actividades complementarias y extraescolares
+
+Las **actividades complementarias y extraescolares** tienen como finalidad ampliar y enriquecer los aprendizajes adquiridos en el aula, favoreciendo el desarrollo personal, profesional y social del alumnado.  
+Estas actividades se orientan a reforzar la conexión entre la formación académica y la realidad del sector tecnológico, fomentando la motivación, la innovación y el aprendizaje experiencial.
+
+## 16.1. Objetivos de las actividades complementarias
+- Relacionar los contenidos del módulo con **situaciones reales del entorno productivo** y del ámbito de las Tecnologías de la Información y la Comunicación (TIC).  
+- Fomentar la **participación activa del alumnado** en actividades de carácter técnico, cultural y profesional.  
+- Promover el **aprendizaje colaborativo y el trabajo en equipo**, en contextos formativos y empresariales.  
+- Estimular la **curiosidad tecnológica** y la capacidad de autoaprendizaje mediante experiencias prácticas.  
+- Impulsar el **espíritu emprendedor** y la creatividad en la búsqueda de soluciones tecnológicas.  
+
+## 16.2. Tipología de actividades
+Entre las actividades complementarias y extraescolares que pueden desarrollarse en este módulo destacan:
+
+- **Visitas técnicas** a empresas del sector tecnológico, centros de datos, proveedores de servicios de Internet o administraciones públicas con infraestructuras TIC relevantes.  
+- **Charlas y talleres** impartidos por profesionales del sector sobre seguridad en redes, cloud computing, administración de sistemas, ciberseguridad o DevOps.  
+- **Participación en ferias y jornadas tecnológicas**, tanto locales como regionales (por ejemplo, *Andalucía Skills*, *Hackathons*, o *Jornadas de Empleo TIC*).  
+- **Simulaciones o proyectos intermodulares**, en colaboración con otros módulos del ciclo, que repliquen la estructura de una empresa TIC real.  
+- **Actividades de divulgación y sensibilización**, como el *Día de Internet Seguro* o *Semanas de la Ciencia y la Tecnología*.  
+- **Colaboración con entidades del entorno local**, para la implantación de servicios informáticos o proyectos de innovación educativa.  
+
+Todas las actividades complementarias y extraescolares deberán estar programadas y autorizadas conforme a la normativa del centro, garantizando su vinculación con los resultados de aprendizaje y la seguridad del alumnado.
+
+# Recursos didácticos
+
+El proceso de enseñanza-aprendizaje del módulo profesional requiere el uso de recursos materiales, tecnológicos y documentales actualizados, que favorezcan el desarrollo competencial del alumnado y la adquisición práctica de los resultados de aprendizaje.
+
+## Recursos materiales y tecnológicos
+- **Aulas específicas y laboratorios de red** equipados con ordenadores, routers, switches gestionables, puntos de acceso, cableado estructurado y servidores locales.  
+- **Entornos virtualizados** (VirtualBox, Proxmox, VMware o similares) para la simulación de servicios y redes empresariales.  
+- **Sistemas operativos libres y propietarios**, tanto en servidor como en cliente (Debian, Ubuntu Server, Windows Server).  
+- **Software de administración de red y servicios**, incluyendo BIND, Kea, Apache/Nginx, vsftpd, Postfix/Dovecot, ejabberd, Icecast, Jitsi o similares.  
+- **Herramientas de monitorización y diagnóstico de red** (Wireshark, nmap, netstat, iperf, etc.).  
+- **Entornos colaborativos y de control de versiones** (GitHub Classroom, Git, Google Workspace o plataformas LMS del centro).  
+- **Material audiovisual y proyectores** para presentaciones, explicaciones y defensa de proyectos.  
+- **Recursos digitales** del aula virtual (Classroom, Moodle u otros entornos institucionales).  
+
+## Recursos documentales y bibliográficos
+- Manuales oficiales y guías de instalación y administración de servicios de red.  
+- Documentación técnica y normativa de referencia (RFC, BOE, BOJA, Reales Decretos, guías INCIBE, CCN-CERT).  
+- Apuntes, guías de prácticas y ejercicios elaborados por el profesorado.  
+- Bibliografía y materiales multimedia sobre tecnologías actuales (DNSSEC, IPv6, HTTPS, Cloud Computing, virtualización, automatización de sistemas).  
+- Recursos en línea: documentación oficial de Linux, Microsoft Learn, AWS Academy, Cisco Networking Academy, etc.
+- **Libros de referencia**:  
+  - Molina Robles, Francisco José. *Servicios de red e Internet*. RA-MA, 2011.  
+  - Schroder, Carla. *Redes en Linux. Guía de referencia*. Anaya-Multimedia O’Reilly.  
+  - Mifsud Talón, E.; Lerma-Blasco, R.V. *Servicios en Red*. McGraw-Hill, 2010.    
+
+## Recursos humanos y organizativos
+- **Profesorado del Departamento de Informática**, especializado en administración de sistemas, redes y servicios.  
+- **Tutoría dual docente**, encargada de la coordinación con las empresas colaboradoras y el seguimiento del alumnado en la fase dual.  
+- **Colaboración con el Departamento de Orientación** para la atención a la diversidad y orientación profesional.  
+- **Asesoramiento técnico y apoyo del coordinador TIC del centro**.  
+
+El conjunto de estos recursos garantiza un aprendizaje **tecnológicamente actualizado, inclusivo y contextualizado** con la realidad profesional del sector TIC, facilitando la transferencia de competencias desde el entorno formativo al productivo.
+
+# Evaluación y seguimiento de la programación
+
+La evaluación y el seguimiento de la programación didáctica constituyen un proceso continuo que tiene por finalidad **comprobar el grado de cumplimiento de los objetivos, la adecuación de la planificación y la eficacia de la práctica docente**, proponiendo las medidas necesarias para su mejora.  
+
+Este seguimiento permite **ajustar la programación** a la realidad del aula, al ritmo de aprendizaje del alumnado y a los cambios tecnológicos o normativos que afecten al desarrollo del módulo.
+
+## Finalidad del seguimiento
+
+El seguimiento de la programación tiene como finalidad:
+
+- Detectar posibles **desviaciones entre la planificación inicial y su desarrollo real**.  
+- Comprobar la **adecuación de la temporalización** a las semanas lectivas y la carga horaria efectiva.  
+- Valorar la **eficacia de las metodologías empleadas** y de los recursos utilizados.  
+- Evaluar la **coherencia entre los contenidos, los resultados de aprendizaje y los criterios de evaluación**.  
+- Facilitar la **coordinación docente** dentro del departamento y con el resto de módulos del ciclo.  
+- Promover la **mejora continua** de la programación para cursos posteriores.
+
+## Procedimiento de seguimiento
+
+El seguimiento se llevará a cabo de forma **trimestral y final**, mediante:
+
+1. **Reuniones de coordinación del Departamento de Informática**, en las que se analizará el grado de cumplimiento de la programación y se propondrán ajustes.  
+2. **Registros de avance de unidades didácticas** y control de actividades programadas.  
+3. **Revisión de la evaluación del alumnado**, comparando los resultados obtenidos con las expectativas iniciales.  
+4. **Análisis de incidencias o desviaciones** detectadas en la temporalización o en la carga de trabajo del alumnado.  
+5. **Valoración de la eficacia de las medidas de atención a la diversidad y de los refuerzos aplicados**.  
+6. **Revisión de las actividades complementarias y del uso de los recursos didácticos.**
+
+## Instrumentos de evaluación del seguimiento
+
+Para el control y mejora de la programación se emplearán los siguientes instrumentos:
+
+- **Informes trimestrales** de desarrollo de la programación didáctica.  
+- **Cuestionarios de autoevaluación docente** cumplimentados por el profesorado responsable del módulo.  
+- **Encuestas de satisfacción del alumnado** sobre los contenidos, metodología y recursos empleados.  
+- **Análisis comparativo de resultados académicos** respecto a cursos anteriores.  
+- **Memoria final del módulo**, elaborada por el profesorado, con conclusiones y propuestas de mejora.  
+
+## Coordinación y responsabilidad
+
+El responsable del **seguimiento y actualización del módulo profesional** será el profesorado encargado de su impartición, en coordinación con la **jefatura del Departamento de Informática**.  
+Las conclusiones del seguimiento se incorporarán a la **memoria final del departamento**, junto con las valoraciones del equipo docente, sirviendo de base para la **planificación del curso siguiente**.
+
+## Criterios de revisión y mejora
+
+La revisión de la programación se fundamentará en los siguientes criterios:
+
+- Cumplimiento de los objetivos generales del módulo.  
+- Grado de consecución de los resultados de aprendizaje.  
+- Eficacia de las estrategias metodológicas y evaluativas aplicadas.  
+- Idoneidad de la distribución temporal de contenidos.  
+- Nivel de satisfacción del alumnado y del profesorado.  
+- Integración efectiva de la formación dual y de las competencias transversales.  
+
+La **evaluación y seguimiento de la programación** del módulo profesional garantizan su actualización permanente, la coherencia pedagógica y la mejora continua de los procesos de enseñanza-aprendizaje, en consonancia con los principios de calidad de la Formación Profesional en Andalucía.
