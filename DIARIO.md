@@ -38,3 +38,22 @@
 **Tarea en segundo plano**: impresión del diseño inicial
 
 **Siguiente paso**: evaluar el software
+
+## Hasta el 12 de noviembre
+- El diseño inicial de la segunda carcasa (PSU + discos) se vió interrumpido por un corte de luz. Recordad guardar el diseño cada X tiempo, menudo error de novato.
+- Fallo en los rodamientos lineales de la impresora. He comprado los respuestos y ya me han llegado, pero no he tenido tiempo de desmontar la máquina y repararla.
+- Recibidos los insertos metálicos para las roscas, métrica 3.
+- Mejorado el diseño para facilitar la inserción de PCIe.
+- Elaborada una lista del software de almacenamiento
+
+**Tiempo total**: muchos ratos sueltos, unas 3 horas en total en las últimas dos semanas.
+
+**Siguiente paso**: consolidar la evaluación del software.
+
+## 12 de noviembre
+- Comparativa documental de las soluciones software para infraestructura y aplicación de almacenamiento.
+- Queda mejorar la redacción, que no la he puesto bonita.
+
+**Tiempo total**: 1,5 horas
+
+**Siguiente paso**: evaluar el hardware
