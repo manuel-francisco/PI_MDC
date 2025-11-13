@@ -95,10 +95,6 @@ De acuerdo con las diversas posibilidades de acceso de los alumnos al ciclo form
 - **Real Decreto 1629/2009**, de 30 de octubre, por el que se establece el título de **Técnico Superior en Administración de Sistemas Informáticos en Red** y se fijan sus enseñanzas mínimas.
 - **Orden EDU/392/2010**, de 20 de enero, por la que se establece el currículo del ciclo formativo de grado superior correspondiente al título de **Técnico Superior en Administración de Sistemas Informáticos en Red**.
 - Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
-- Decreto 147/2025, de 17 de septiembre de 2025, por el que se establece la ordenación de las enseñanzas de los Grados D y E del Sistema de Formación Profesional en la Comunidad Autónoma de Andalucía.
-- **Decreto 147/2025**, de 17 de septiembre, por el que se establece la ordenación de las enseñanzas de los Grados D y E del Sistema de Formación Profesional en la Comunidad Autónoma de Andalucía.
-- **Orden de 18 de septiembre de 2025**, por la que se regula la evaluación, certificación, acreditación y titulación académica del alumnado que cursa enseñanzas de los grados D y E del Sistema de Formación Profesional en la Comunidad Autónoma de Andalucía.
-- **Orden de 26 de septiembre de 2025**, por la que se regula la fase de formación en empresa u organismo equiparado de los grados D y E del Sistema de Formación Profesional de la Comunidad Autónoma de Andalucía.
 
 
 # Competencias profesionales, personales y sociales
