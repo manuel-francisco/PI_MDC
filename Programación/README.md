@@ -1,14 +1,12 @@
-# Identificación del módulo profesional
-
 | Elemento | Descripción |
 |-----------|-------------|
-| **Denominación** | Proyecto de Administración de Sistemas Informáticos en Red |
+| **Denominación** | Proyecto de Administración de Sistemas Informáticos en Red (FPI a extinguir) |
 | **Código** | 0379 |
 | **Familia Profesional** | Informática y Comunicaciones |
 | **Ciclo Formativo** | Administración de Sistemas Informáticos en Red (ASIR) |
 | **Nivel** | Grado Superior |
 | **Curso** | Segundo |
-| **Duración total** | 70 horas |
+| **Duración total** | 40 horas |
 | **Modalidad de impartición** | Presencial |
 | **Departamento responsable** | Departamento de Informática – IES Mar de Cádiz |
 
@@ -257,17 +255,12 @@ Estos contenidos básicos orientan el desarrollo de las actividades de enseñanz
 # Secuenciación y temporalización
 
 <!--
-> **Marco horario y restricciones 2025/2026**  
-> - 1.º trimestre: **14 semanas** → **28 h** (presencial).  
-> - 2.º trimestre: **11 semanas** → **22 h** (presencial).  
-> - 3.º trimestre: **7 semanas** → **14 h**, (presencial).  
-> - **Total módulo:** **70 h**.
+> NO hay dedicación horaria
 -->
 
-El módulo profesional **Proyecto de Administración de Sistemas Informáticos en Red (0379)** tiene una duración total de **70 horas**, distribuidas en **2 horas semanales** a lo largo de las **35 semanas** del curso académico 2025/2026. Su desarrollo se plantea mediante un **método iterativo de trabajo por fases**, en el que el alumnado aplica de manera autónoma los conocimientos y competencias adquiridos en el ciclo, bajo la orientación y tutorización del profesorado.
+El módulo profesional **Proyecto de Administración de Sistemas Informáticos en Red (0379)** tiene una dedicación horaria de **40 horas**. Su desarrollo se plantea mediante un **método iterativo de trabajo por fases**, en el que el alumnado aplica de manera autónoma los conocimientos y competencias adquiridos en el ciclo, bajo la orientación y tutorización del profesorado.
 
 Se aplicará una **metodología iterativa**, que permite que el proyecto se desarrolle de manera **progresiva y cíclica**, favoreciendo la mejora continua del producto final. Cada fase culmina con una **entrega parcial evaluable** en la que el alumnado debe presentar los avances técnicos y documentales alcanzados. Estas entregas permiten al docente **analizar el progreso, proporcionar retroalimentación y reorientar el trabajo**, garantizando que el resultado final cumpla los estándares de calidad técnica y metodológica.
-
 
 ### Primera iteración: hasta el 5 de diciembre de 2025
 - **Avances técnicos:** corresponden a un **primer prototipo funcional**, en el que pueda observarse al menos una de las funcionalidades básicas previstas del sistema o servicio que se pretende desarrollar. Este primer avance debe reflejar la comprensión global del proyecto y sentar las bases técnicas sobre las que se construirán las siguientes fases.
