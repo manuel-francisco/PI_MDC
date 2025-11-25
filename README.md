@@ -232,3 +232,70 @@ Añadir conclusión de la decisión del stack de software.
 
 
 ## Objetivo 2: análisis del hardware
+Hay una gran cantidad de alternativas de hardware que nos permite llevar a cabo este proyecto. Para el producto piloto, se utilizará el hardware ya disponible. No obstante, la selección del equipo final se llevará a cabo teniendo en cuenta los siguientes criterios:
+
+- **Consumo energético** Vatios en reposo y en carga, eficiencia de la fuente y coste anual estimado.
+
+- **Puertos SATA** Número total, soporte RAID por hardware (opcional).
+
+- **Tipo de RAM** DDR3/DDR4/DDR5, ECC o no-ECC, DIMM o SO-DIMM, capacidad máxima y posibilidades de ampliación.
+
+- **Puertos de red** Número de interfaces, velocidades disponibles (1G/2.5G/10G), compatibilidad LACP y estabilidad de drivers en Linux/BSD.
+
+- **Puertos M.2** Cantidad, tipo NVMe.
+
+- **Arquitectura x86_64** Para maximizar la compatibilidad.
+
+- **Precio** Coste inicial del hardware y ampliaciones; relación precio/rendimiento.
+
+- **Comunidad** Disponibilidad de documentación, guías y foros activos.
+
+- **Factor de forma (ITX o inferior)** Tamaño físico, compatibilidad con chasis compactos, limitaciones térmicas y de expansión (slots PCIe, número de módulos RAM).
+
+Lista de hardware relevante:
+
+**1. CWWK NAS Motherboard Mini-ITX**  
+**Precio:** ~259,31 €  
+**Enlace:** amazon B0F9TV5SRV  
+**Criterios:**  
+Consumo: 6W
+SATA: 8 puertos a través de SFF-8643
+RAM: SO-DIMM DDR5
+Red: 1x 10Gbps + 2x 2.5Gbps
+M.2: doble NVMe  
+x86_64: ntel N150    
+Comunidad: solución estándar
+Factor forma: Mini-itx
+PCIe: PCIe x4
+
+**2. PeeliCeeli N100 DDR5 Mini-ITX Low-Power**  
+**Precio:** ~206,90 €  
+**Enlace:** amazon B0DK2S8LRJ
+**Criterios:**  
+Consumo: 6W
+SATA: 6 puertos nativos
+RAM: DDR5 SO-DIMM  
+Red: 4x 2.5Gbps
+M.2: doble NVMe
+x86_64: intel N100  
+Comunidad: solución estándar
+Factor forma: Mini-itx 
+PCIe: PCIE x4
+
+**3. LattePanda**  
+**Precio:** Diferentes según placa, la sigma ~500 €
+Está pensada para otros usos. Puede usarse como NAS pero cara en comparación a las anteriores.
+
+**4. UGREEN NAS**  
+**Precio:** ~279 € según modelo  
+**Enlace:** amazon B0D2K9J5TY
+**Criterios:**  
+Consumo: 6W
+SATA: 2 bahías, máx 76TB
+RAM: 8GB (máx 16)
+Red: 2.5Gbe
+M.2: doble NVMe
+x86_64: intel n100
+Comunidad: en crecimiento, el hardware no es estándar
+Factor forma: NAS compacto y completo, PSU externa
+PCIe: sin PCIe

@@ -57,3 +57,11 @@
 **Tiempo total**: 1,5 horas
 
 **Siguiente paso**: evaluar el hardware
+
+## 25 de noviembre
+- Comparativa entre diferentes soluciones hardware
+- Queda: añadir más, incluir PSUs, incluir discos
+
+**Tiempo total**: 1,5 hroas
+
+**Siguiente paso**: continuar evaluación hardware
